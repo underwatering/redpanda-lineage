@@ -1,0 +1,18 @@
+[panda]
+_id: 649
+birthday: 2016/7/4
+birthplace: 135
+children: none
+en.name: (no name)
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: (無名)
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: unknown
+location.1: 135, 2016/7/4
+location.2: 169, 2017/4/27
+species: 2
+zoo: 169

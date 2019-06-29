@@ -1,0 +1,15 @@
+[zoo]
+_id: 22
+en.address: Japan, 〒543-0063 Osaka Prefecture, 大阪市天王寺区茶臼山町１−１０８
+en.location: Tennōji-ku, Osaka
+en.name: Osaka Tennōji Zoo
+flag: Japan
+jp.address: 〒543-0063 大阪府 大阪市天王寺区茶臼山町１−１０８
+jp.location: 天王寺区 大阪市
+jp.name: 天王寺動物園
+language.order: jp, en
+map: https://goo.gl/maps/jgQy9DYiBJJ2
+photo.1: https://www.instagram.com/p/BnOimFnltP9/media/?size=m
+photo.1.author: yoshihiko0108
+photo.1.link: https://www.instagram.com/yoshihiko0108/
+website: http://www.city.osaka.lg.jp/contents/wdu170/tennojizoo/

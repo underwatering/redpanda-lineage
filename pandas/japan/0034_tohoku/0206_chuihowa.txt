@@ -1,0 +1,40 @@
+[panda]
+_id: 206
+birthday: 2010/7/10
+birthplace: 34
+children: none
+en.name: Chuihowa
+en.nicknames: none
+en.othernames: Chuy-How, Chuy-Fa, Chuihiwa, Chuyhowa, Chuy-Howa, Chuifa, Ju-Hua, Juhua
+gender: f
+jp.name: チュイホワ
+jp.nicknames: none
+jp.othernames: 菊花
+language.order: jp, en
+photo.1: https://www.instagram.com/p/BlBHsWSl8Oo/media/?size=m
+photo.1.author: craig_craig_craig
+photo.1.link: https://www.instagram.com/craig_craig_craig/
+photo.1.tags: profile
+photo.2: https://www.instagram.com/p/BjOGYJ6Fd6w/media/?size=m
+photo.2.author: rie_panda55
+photo.2.link: https://www.instagram.com/rie_panda55/
+photo.3: https://www.instagram.com/p/Bhv41BOlhwN/media/?size=m
+photo.3.author: daniele.tokyo
+photo.3.link: https://www.instagram.com/daniele.tokyo/
+photo.3.tags: lunch time
+photo.4: https://www.instagram.com/p/BoGo3IVFfh_/media/?size=m
+photo.4.author: monmon_redpanda
+photo.4.link: https://www.instagram.com/monmon_redpanda/
+photo.5: https://www.instagram.com/p/Bo0FGWelZSG/media/?size=m
+photo.5.author: tabechum
+photo.5.link: https://www.instagram.com/tabechum/
+photo.6: https://www.instagram.com/p/Bpg92sRl_RH/media/?size=m
+photo.6.author: craig_craig_craig
+photo.6.link: https://www.instagram.com/craig_craig_craig/
+photo.6.tags: apple time
+photo.7: https://www.instagram.com/p/By3oEOxBiuF/media/?size=m
+photo.7.author: miis_98
+photo.7.link: https://www.instagram.com/miis_98/
+photo.7.tags: portrait
+species: 2
+zoo: 34

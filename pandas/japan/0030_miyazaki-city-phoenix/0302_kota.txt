@@ -1,0 +1,33 @@
+[panda]
+_id: 302
+birthday: 2012/8/2
+birthplace: 42
+children: none
+en.name: Kota
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: コタ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 483
+location.1: 42, 2012/8/2
+location.2: 30, 2015/1/15
+photo.1: https://www.instagram.com/p/BTDZEnyASXv/media/?size=m
+photo.1.author: monmon_redpanda
+photo.1.link: https://www.instagram.com/monmon_redpanda/
+photo.1.tags: profile, smile
+photo.2: https://www.instagram.com/p/BsPo5r1Fyjj/media/?size=m
+photo.2.author: re_ichimaru
+photo.2.link: https://www.instagram.com/re_ichimaru/
+photo.3: https://www.instagram.com/p/BvsKJiRAA09/media/?size=m
+photo.3.author: craig_craig_craig
+photo.3.link: https://www.instagram.com/craig_craig_craig/
+photo.3.tags: bamboo
+photo.4: https://www.instagram.com/p/BvWm4GkF32x/media/?size=m
+photo.4.author: craig_craig_craig
+photo.4.link: https://www.instagram.com/craig_craig_craig/
+photo.4.tags: paws
+species: 2
+zoo: 30

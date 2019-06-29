@@ -1,0 +1,29 @@
+[panda]
+_id: 107
+birthday: 1999/7/9
+birthplace: 15
+children: 136, 191, 157, 192, 287, 67, 83, 105, 36, 74
+en.name: Fan-Fan
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ファンファン
+jp.nicknames: none
+jp.othernames: 花花
+language.order: jp, en
+litter: 364
+location.1: 15, 1999/7/9
+location.2: 17, 2001/5/12
+photo.1: https://www.instagram.com/p/BtF96jgFcIQ/media/?size=m
+photo.1.author: mofu_pan
+photo.1.link: https://www.instagram.com/mofu_pan/
+photo.1.tags: bamboo, old
+photo.2: https://www.instagram.com/p/Bu3NLArllOI/media/?size=m
+photo.2.author: nakayamanoboru6981
+photo.2.link: https://www.instagram.com/nakayamanoboru6981/
+photo.2.tags: old
+species: 2
+video.1: https://youtu.be/AnjnjrW-9iw
+video.1.author: ガメ
+video.1.link: https://www.youtube.com/channel/UCY6TH3OBuVW3S21xNcEw2tg
+zoo: 17

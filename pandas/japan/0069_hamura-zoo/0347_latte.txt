@@ -1,0 +1,75 @@
+[panda]
+_id: 347
+birthday: 2013/6/11
+birthplace: 69
+children: none
+en.name: Latte
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: ラテ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 153
+photo.1: https://www.instagram.com/p/BZGwJTEBKeK/media/?size=m
+photo.1.author: 218_yu
+photo.1.link: https://www.instagram.com/218_yu/
+photo.1.tags: curly, tail
+photo.2: https://www.instagram.com/p/BJb5WmgDvv4/media/?size=m
+photo.2.author: _natsu_panda_
+photo.2.link: https://www.instagram.com/_natsu_panda_/
+photo.2.tags: curly, grooming, tail
+photo.3: https://www.instagram.com/p/Be9GhRRB20p/media/?size=m
+photo.3.author: _rifa_p
+photo.3.link: https://www.instagram.com/_rifa_p/
+photo.3.tags: laying down, tree
+photo.4: https://www.instagram.com/p/BVLy4ZRjISQ/media/?size=m
+photo.4.author: _rifa_p
+photo.4.link: https://www.instagram.com/_rifa_p/
+photo.4.tags: curly, profile, tail
+photo.5: https://www.instagram.com/p/BgM3sFzlGLo/media/?size=m
+photo.5.author: miis_98
+photo.5.link: https://www.instagram.com/miis_98/
+photo.5.tags: curly, tail
+photo.6: https://www.instagram.com/p/Bqo_laUFxc6/media/?size=m
+photo.6.author: cabbage_biyori
+photo.6.link: https://www.instagram.com/cabbage_biyori/
+photo.6.tags: curly, tail
+photo.7: https://www.instagram.com/p/Brpv6obFLfx/media/?size=m
+photo.7.author: cabbage_biyori
+photo.7.link: https://www.instagram.com/cabbage_biyori/
+photo.8: https://www.instagram.com/p/Bi6g9jQlZ5X/media/?size=m
+photo.8.author: hanamaru_redpanda
+photo.8.link: https://www.instagram.com/hanamaru_redpanda/
+photo.8.tags: grooming, smile
+photo.9: https://www.instagram.com/p/Btvz1h8l3Vl/media/?size=m
+photo.9.author: cabbage_biyori
+photo.9.link: https://www.instagram.com/cabbage_biyori/
+photo.9.tags: tail
+photo.10: https://www.instagram.com/p/BtwErxulHdO/media/?size=m
+photo.10.author: resapan.suki
+photo.10.link: https://www.instagram.com/resapan.suki/
+photo.10.tags: apple time, lips, smile
+photo.11: https://www.instagram.com/p/BuLzmOBFMK8/media/?size=m
+photo.11.author: resapan.suki
+photo.11.link: https://www.instagram.com/resapan.suki/
+photo.11.tags: bamboo, smile, tongue
+photo.12: https://www.instagram.com/p/BvwxuOjAX7M/media/?size=m
+photo.12.author: cabbage_biyori
+photo.12.link: https://www.instagram.com/cabbage_biyori/
+photo.12.tags: curly, tail
+photo.13: https://www.instagram.com/p/Bvz54XVlaph/media/?size=m
+photo.13.author: kipekaila
+photo.13.link: https://www.instagram.com/kipekaila/
+photo.13.tags: shedding, smile
+photo.14: https://www.instagram.com/p/ByC78X_hFoI/media/?size=m
+photo.14.author: resapan.suki
+photo.14.link: https://www.instagram.com/resapan.suki/
+photo.14.tags: lips, smile
+photo.15: https://www.instagram.com/p/BymKdeBhl7_/media/?size=m
+photo.15.author: cabbage_biyori
+photo.15.link: https://www.instagram.com/cabbage_biyori/
+photo.15.tags: dish, smile
+species: 2
+zoo: 69

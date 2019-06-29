@@ -1,0 +1,79 @@
+[panda]
+_id: 147
+birthday: 2014/7/17
+birthplace: 16
+children: none
+en.name: Matsuba
+en.nicknames: Battle Princess, Mochi-slayer, Mochi-sweetie
+en.othernames: none
+gender: f
+jp.name: まつば
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: none
+location.1: 16, 2014/7/17
+location.2: 13, 2018/3/26
+photo.1: https://www.instagram.com/p/Bip9dVulm81/media/?size=m
+photo.1.author: tomo3700
+photo.1.link: https://www.instagram.com/tomo3700/
+photo.1.tags: profile, tongue
+photo.2: https://www.instagram.com/p/Bi_hO1RF10s/media/?size=m
+photo.2.author: mugicha0312
+photo.2.link: https://www.instagram.com/mugicha0312/
+photo.3: https://www.instagram.com/p/BoRhWEgFr0C/media/?size=m
+photo.3.author: mugicha0312
+photo.3.link: https://www.instagram.com/mugicha0312/
+photo.3.tags: laying down, upside-down
+photo.4: https://www.instagram.com/p/Bo3023QFKuD/media/?size=m
+photo.4.author: minato.yokohama2130
+photo.4.link: https://www.instagram.com/minato.yokohama2130/
+photo.5: https://www.instagram.com/p/BpZBgxnFgem/media/?size=m
+photo.5.author: minato.yokohama2130
+photo.5.link: https://www.instagram.com/minato.yokohama2130/
+photo.5.tags: itchy
+photo.6: https://www.instagram.com/p/BpjhhoZFFVn/media/?size=m
+photo.6.author: minato.yokohama2130
+photo.6.link: https://www.instagram.com/minato.yokohama2130/
+photo.6.tags: itchy
+photo.7: https://www.instagram.com/p/Bp338tRF-Bi/media/?size=m
+photo.7.author: minato.yokohama2130
+photo.7.link: https://www.instagram.com/minato.yokohama2130/
+photo.8: https://www.instagram.com/p/Bq9pD4lFWMA/media/?size=m
+photo.8.author: minato.yokohama2130
+photo.8.link: https://www.instagram.com/minato.yokohama2130/
+photo.8.tags: laying down
+photo.9: https://www.instagram.com/p/BrFbb4OFnkU/media/?size=m
+photo.9.author: minato.yokohama2130
+photo.9.link: https://www.instagram.com/minato.yokohama2130/
+photo.9.tags: itchy
+photo.10: https://www.instagram.com/p/BfgEASqn00W/media/?size=m
+photo.10.author: rdpnzoo
+photo.10.link: https://www.instagram.com/rdpnzoo/
+photo.10.tags: tongue
+photo.11: https://www.instagram.com/p/BsIr--LFedP/media/?size=m
+photo.11.author: yakko____
+photo.11.link: https://www.instagram.com/yakko____/
+photo.11.tags: air tasting, tongue
+photo.12: https://www.instagram.com/p/BsNE-oBFe0l/media/?size=m
+photo.12.author: minato.yokohama2130
+photo.12.link: https://www.instagram.com/minato.yokohama2130/
+photo.12.tags: itchy, paws, snow
+photo.13: https://www.instagram.com/p/BtLGuN6lH0C/media/?size=m
+photo.13.author: minato.yokohama2130
+photo.13.link: https://www.instagram.com/minato.yokohama2130/
+photo.13.tags: bear worm, itchy
+photo.14: https://www.instagram.com/p/BuMBgalFEVL/media/?size=m
+photo.14.author: gloryeui
+photo.14.link: https://www.instagram.com/gloryeui/
+photo.14.tags: bear worm
+photo.15: https://www.instagram.com/p/BxhTaheFKTq/media/?size=m
+photo.15.author: framereim
+photo.15.link: https://www.instagram.com/framereim/
+photo.15.tags: apple time, keeper
+photo.16: https://www.instagram.com/p/BxmcdIDF_5X/media/?size=m
+photo.16.author: sakikukeco
+photo.16.link: https://www.instagram.com/sakikukeco/
+photo.16.tags: mofumofu
+species: 2
+zoo: 13

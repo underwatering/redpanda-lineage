@@ -1,0 +1,22 @@
+[panda]
+_id: 513
+birthday: 2015/5/31
+birthplace: 114
+children: none
+en.name: Hoppy
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: ホッピー
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 511, 512
+location.1: 114, 2015/5/31
+location.2: 120, 2016/4/13
+photo.1: https://www.instagram.com/p/BgRQT5iHhlM/media/?size=m
+photo.1.author: marlomarketing
+photo.1.link: https://www.instagram.com/marlomarketing/
+photo.1.tags: bamboo, profile, snow
+species: 1
+zoo: 120

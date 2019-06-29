@@ -1,0 +1,40 @@
+[panda]
+_id: 319
+birthday: 2018/7/25
+birthplace: 59
+children: none
+en.name: Akatsuki
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: あかつき
+jp.nicknames: none
+jp.othernames: 暁
+language.order: jp, en
+litter: 317, 318
+photo.1: https://www.codaworry.com/images/rpf/akatsuki-daniele-tokyo.jpg
+photo.1.author: daniele.tokyo
+photo.1.link: https://www.instagram.com/daniele.tokyo/
+photo.1.tags: baby, eye
+photo.2: https://www.instagram.com/p/BtGBbXvlia0/media/?size=m
+photo.2.author: fetorus_mami
+photo.2.link: https://www.instagram.com/fetorus_mami/
+photo.2.tags: baby, eye, tree
+photo.3: https://www.instagram.com/p/BxFmpm8lYTm/media/?size=m
+photo.3.author: fetorus_mami
+photo.3.link: https://www.instagram.com/fetorus_mami/
+photo.3.tags: pooping, portrait, profile
+photo.4: https://www.instagram.com/p/Bw6w8WgAYFp/media/?size=m
+photo.4.author: teru6245
+photo.4.link: https://www.instagram.com/teru6245/
+photo.4.tags: laying down, tree
+photo.5: https://www.instagram.com/p/BycP8B-Br16/media/?size=m
+photo.5.author: _saaaaaaah_
+photo.5.link: https://www.instagram.com/_saaaaaaah_/
+photo.5.tags: laying down, tree, yawn
+photo.6: https://www.instagram.com/p/BygWCbehLcE/media/?size=m
+photo.6.author: miis_98
+photo.6.link: https://www.instagram.com/miis_98/
+photo.6.tags: portrait
+species: 1
+zoo: 59

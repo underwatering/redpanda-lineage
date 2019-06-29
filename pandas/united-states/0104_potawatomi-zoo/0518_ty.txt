@@ -1,0 +1,19 @@
+[panda]
+_id: 518
+birthday: 2001/7/9
+birthplace: 118
+children: 803, 804, 805, 534, 623, 624, 642, 643, 644, 516
+en.name: Ty
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: タイ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 667
+location.1: 118, 2001/7/9
+location.2: 122, 2002/3/13
+location.3: 104, 2002/11/20
+species: 1
+zoo: 104

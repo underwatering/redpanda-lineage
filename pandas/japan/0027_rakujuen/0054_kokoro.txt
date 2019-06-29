@@ -1,0 +1,105 @@
+[panda]
+_id: 54
+birthday: 2006/6/20
+birthplace: 10
+children: none
+en.name: Kokoro
+en.nicknames: Mofumofu
+en.othernames: none
+gender: f
+jp.name: ココロ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 291, 487
+location.1: 10, 2006/6/20
+location.2: 27, 2014/1/7
+photo.1: https://www.instagram.com/p/BhOXsjtATcE/media/?size=m
+photo.1.author: daniele.tokyo
+photo.1.link: https://www.instagram.com/daniele.tokyo/
+photo.1.tags: mofumofu
+photo.2: https://www.instagram.com/p/Bh7i9UCl2Gt/media/?size=m
+photo.2.author: rie_panda55
+photo.2.link: https://www.instagram.com/rie_panda55/
+photo.2.tags: portrait, sleeping
+photo.3: https://www.instagram.com/p/Bik1KfIFhjG/media/?size=m
+photo.3.author: _rifa_p
+photo.3.link: https://www.instagram.com/_rifa_p/
+photo.3.tags: dish
+photo.4: https://www.instagram.com/p/BkPhCdGleWq/media/?size=m
+photo.4.author: _rifa_p
+photo.4.link: https://www.instagram.com/_rifa_p/
+photo.4.tags: apple time, keeper
+photo.5: https://www.instagram.com/p/BkO_-1Ilhkd/media/?size=m
+photo.5.author: wumpwoast
+photo.5.link: https://www.instagram.com/wumpwoast/
+photo.5.tags: tail
+photo.6: https://www.instagram.com/p/BQFtRODD0Nl/media/?size=m
+photo.6.author: rdpnzoo
+photo.6.link: https://www.instagram.com/rdpnzoo/
+photo.6.tags: smile
+photo.7: https://www.instagram.com/p/BpMV0OVlkZ3/media/?size=m
+photo.7.author: perie1027vivi
+photo.7.link: https://www.instagram.com/perie1027vivi/
+photo.7.tags: keeper, portrait, profile
+photo.8: https://www.instagram.com/p/BqE-KVYlB-J/media/?size=m
+photo.8.author: yuki_cat_panda
+photo.8.link: https://www.instagram.com/yuki_cat_panda/
+photo.8.tags: laying down
+photo.9: https://www.instagram.com/p/BiSwXQVFX7a/media/?size=m
+photo.9.author: _rifa_p
+photo.9.link: https://www.instagram.com/_rifa_p/
+photo.10: https://www.instagram.com/p/BqvTl5HlmFc/media/?size=m
+photo.10.author: na.mo.pan
+photo.10.link: https://www.instagram.com/na.mo.pan/
+photo.10.tags: nose
+photo.11: https://www.instagram.com/p/BYDNg3YlqZ0/media/?size=m
+photo.11.author: hanamaru_redpanda
+photo.11.link: https://www.instagram.com/hanamaru_redpanda/
+photo.11.tags: portrait, sleeping, tongue
+photo.12: https://www.instagram.com/p/BvR0eeWluoZ/media/?size=m
+photo.12.author: take_421
+photo.12.link: https://www.instagram.com/take_421/
+photo.12.tags: mofumofu, paws, portrait
+photo.13: https://www.instagram.com/p/BxeHEMplwQN/media/?size=m
+photo.13.author: miis_98
+photo.13.link: https://www.instagram.com/miis_98/
+photo.13.tags: paws, portrait, white face
+photo.14: https://www.instagram.com/p/BxpCyR2FqVc/media/?size=m
+photo.14.author: miis_98
+photo.14.link: https://www.instagram.com/miis_98/
+photo.14.tags: bamboo, portrait, smile
+photo.15: https://www.instagram.com/p/Bxt7Wr5FYSx/media/?size=m
+photo.15.author: pantasanzoo1
+photo.15.link: https://www.instagram.com/pantasanzoo1/
+photo.15.tags: techitechi
+photo.16: https://www.instagram.com/p/ByEToasB4Q0/media/?size=m
+photo.16.author: pantasanzoo1
+photo.16.link: https://www.instagram.com/pantasanzoo1/
+photo.16.tags: apple time, dish
+photo.17: https://www.instagram.com/p/ByrY3ftBsPS/media/?size=m
+photo.17.author: pantasanzoo1
+photo.17.link: https://www.instagram.com/pantasanzoo1/
+photo.17.tags: mofumofu, paws, portrait
+photo.18: https://www.instagram.com/p/BguYQ-FgsVy/media/?size=m
+photo.18.author: wumpwoast
+photo.18.link: https://www.instagram.com/wumpwoast/
+photo.18.tags: bamboo, portrait
+photo.19: https://www.instagram.com/p/Bh5i_5nFaPu/media/?size=m
+photo.19.author: wumpwoast
+photo.19.link: https://www.instagram.com/wumpwoast/
+photo.19.tags: bamboo
+photo.20: https://www.instagram.com/p/BRNZfUKg8ar/media/?size=m
+photo.20.author: monmon_redpanda
+photo.20.link: https://www.instagram.com/monmon_redpanda/
+photo.20.tags: home, paws
+photo.21: https://www.instagram.com/p/By6oiOqBaUN/media/?size=m
+photo.21.author: pantasanzoo1
+photo.21.link: https://www.instagram.com/pantasanzoo1/
+photo.21.tags: paws, smile
+photo.22: https://www.instagram.com/p/By7ASCphgs0/media/?size=m
+photo.22.author: rakujyu_mishima
+photo.22.link: https://www.instagram.com/rakujyu_mishima/
+photo.22.tags: apple time, home, lunch time
+species: 2
+zoo: 27

@@ -1,0 +1,41 @@
+[panda]
+_id: 214
+birthday: 2013/6/26
+birthplace: 26
+children: 212, 213, 250, 251
+en.name: Yuri
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: 百合
+jp.nicknames: none
+jp.othernames: ゆり
+language.order: jp, en
+photo.1: https://www.instagram.com/p/Bi39paFFv2m/media/?size=m
+photo.1.author: daniele.tokyo
+photo.1.link: https://www.instagram.com/daniele.tokyo/
+photo.2: https://www.instagram.com/p/BnTQc07FxsB/media/?size=m
+photo.2.author: daniele.tokyo
+photo.2.link: https://www.instagram.com/daniele.tokyo/
+photo.2.tags: profile, standing
+photo.3: https://www.instagram.com/p/Bp1SrlRlZPo/media/?size=m
+photo.3.author: kipekaila
+photo.3.link: https://www.instagram.com/kipekaila/
+photo.3.tags: apple time
+photo.4: https://www.instagram.com/p/BqIAWv0FGa4/media/?size=m
+photo.4.author: mifko55
+photo.4.link: https://www.instagram.com/mifko55/
+photo.5: https://www.instagram.com/p/Bs-hxErlnmL/media/?size=m
+photo.5.author: leonard_redmof
+photo.5.link: https://www.instagram.com/leonard_redmof/
+photo.5.tags: smile, standing
+photo.6: https://www.instagram.com/p/BtI8GB2lvDE/media/?size=m
+photo.6.author: mifko55
+photo.6.link: https://www.instagram.com/mifko55/
+photo.6.tags: tree
+photo.7: https://www.instagram.com/p/Bwkvs8Al2LU/media/?size=m
+photo.7.author: craig_craig_craig
+photo.7.link: https://www.instagram.com/craig_craig_craig/
+photo.7.tags: paws, standing
+species: 2
+zoo: 26

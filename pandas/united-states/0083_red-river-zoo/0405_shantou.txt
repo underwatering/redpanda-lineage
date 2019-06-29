@@ -1,0 +1,19 @@
+[panda]
+_id: 405
+birthday: 2005/5/10
+birthplace: 34
+children: 404, 406, 399, 402, 403, 461, 410
+death: 2015/11/12
+en.name: Shan-Tou
+en.nicknames: none
+en.othernames: Shantou
+gender: f
+jp.name: シャントゥ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: none
+location.1: 34, 2005/5/10
+location.2: 83, 2007/2/21
+species: 2
+zoo: 83

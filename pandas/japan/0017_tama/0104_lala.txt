@@ -1,0 +1,123 @@
+[panda]
+_id: 104
+birthday: 2008/6/16
+birthplace: 10
+children: 185
+en.name: Lala
+en.nicknames: Mofumofu Tail
+en.othernames: Rara
+gender: f
+jp.name: ララ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 108
+location.1: 10, 2008/6/16
+location.2: 17, 2011/4/26
+photo.1: https://www.instagram.com/p/BjE53LqFapp/media/?size=m
+photo.1.author: mariten1119
+photo.1.link: https://www.instagram.com/mariten1119/
+photo.1.tags: smile
+photo.2: https://www.instagram.com/p/BjHU-uiF2Qy/media/?size=m
+photo.2.author: hanamaru_redpanda
+photo.2.link: https://www.instagram.com/hanamaru_redpanda/
+photo.2.tags: portrait, tongue
+photo.3: https://www.instagram.com/p/BkH6nCql1dy/media/?size=m
+photo.3.author: daniele.tokyo
+photo.3.link: https://www.instagram.com/daniele.tokyo/
+photo.3.tags: mofumofu, portrait, profile, tail, techitechi, snow
+photo.4: https://www.instagram.com/p/BcY1fYFAmHi/media/?size=m
+photo.4.author: minatomirai215
+photo.4.link: https://www.instagram.com/minatomirai215/
+photo.4.tags: portrait
+photo.5: https://www.instagram.com/p/BkETlZ1lOTt/media/?size=m
+photo.5.author: kotata_513
+photo.5.link: https://www.instagram.com/kotata_513/
+photo.5.tags: flowers, portrait, tongue
+photo.6: https://www.instagram.com/p/Bop9Wq4Fudm/media/?size=m
+photo.6.author: kotata_513
+photo.6.link: https://www.instagram.com/kotata_513/
+photo.7: https://www.instagram.com/p/Bpdkt0eFYyo/media/?size=m
+photo.7.author: miis_98
+photo.7.link: https://www.instagram.com/miis_98/
+photo.7.tags: portrait, tongue
+photo.8: https://www.instagram.com/p/Bpv3hWXlfv8/media/?size=m
+photo.8.author: mofu_pan
+photo.8.link: https://www.instagram.com/mofu_pan/
+photo.8.tags: mofumofu, tail
+photo.9: https://www.instagram.com/p/Bp1TyQalYdN/media/?size=m
+photo.9.author: cabbage_biyori
+photo.9.link: https://www.instagram.com/cabbage_biyori/
+photo.9.tags: mofumofu, tail
+photo.10: https://www.instagram.com/p/Bp11DGzl-mm/media/?size=m
+photo.10.author: mofu_pan
+photo.10.link: https://www.instagram.com/mofu_pan/
+photo.10.tags: laying down, mofumofu, tail
+photo.11: https://www.instagram.com/p/Bp7Xyxel1q9/media/?size=m
+photo.11.author: hiro107ig_zoo
+photo.11.link: https://www.instagram.com/hiro107ig_zoo/
+photo.12: https://www.instagram.com/p/BqMlQFdlEYt/media/?size=m
+photo.12.author: hiro107ig_zoo
+photo.12.link: https://www.instagram.com/hiro107ig_zoo/
+photo.12.tags: paws, standing
+photo.13: https://www.instagram.com/p/BrzklXvFsQx/media/?size=m
+photo.13.author: kipekaila
+photo.13.link: https://www.instagram.com/kipekaila/
+photo.13.tags: upside-down
+photo.14: https://www.instagram.com/p/BsMGlzkFcMo/media/?size=m
+photo.14.author: kotata_513
+photo.14.link: https://www.instagram.com/kotata_513/
+photo.14.tags: bamboo, mofumofu, portrait, tongue, tail
+photo.15: https://www.instagram.com/p/BsN0FGolGDl/media/?size=m
+photo.15.author: ifumoto88
+photo.15.link: https://www.instagram.com/ifumoto88/
+photo.16: https://www.instagram.com/p/BsNJjUolMbY/media/?size=m
+photo.16.author: panda.daisuki
+photo.16.link: https://www.instagram.com/panda.daisuki/
+photo.16.tags: bamboo, portrait
+photo.17: https://www.instagram.com/p/Bscjav4FUqM/media/?size=m
+photo.17.author: kotata_513
+photo.17.link: https://www.instagram.com/kotata_513/
+photo.17.tags: bamboo, portrait, smile
+photo.18: https://www.instagram.com/p/BtBQrSllyJL/media/?size=m
+photo.18.author: mariten1119
+photo.18.link: https://www.instagram.com/mariten1119/
+photo.18.tags: bamboo, standing, tail
+photo.19: https://www.instagram.com/p/Btf2TD0FEg_/media/?size=m
+photo.19.author: daniele.tokyo
+photo.19.link: https://www.instagram.com/daniele.tokyo/
+photo.19.tags: mofumofu, portrait, yawn
+photo.20: https://www.instagram.com/p/BuGsEk7F-ot/media/?size=m
+photo.20.author: resapan.suki
+photo.20.link: https://www.instagram.com/resapan.suki/
+photo.20.tags: portrait, tree
+photo.21: https://www.instagram.com/p/Bv86F9kFdtI/media/?size=m
+photo.21.author: 218_yu
+photo.21.link: https://www.instagram.com/218_yu/
+photo.21.tags: bamboo
+photo.22: https://www.instagram.com/p/BxgavpUFhCw/media/?size=m
+photo.22.author: kotata_513
+photo.22.link: https://www.instagram.com/kotata_513/
+photo.22.tags: bamboo, tongue
+photo.23: https://www.instagram.com/p/ByefDs2gRIr/media/?size=m
+photo.23.author: sunnylettuce_fields
+photo.23.link: https://www.instagram.com/sunnylettuce_fields/
+photo.23.tags: apple time, keeper, mofumofu
+photo.24: https://www.instagram.com/p/BykHE4mBIJy/media/?size=m
+photo.24.author: rie_panda55
+photo.24.link: https://www.instagram.com/rie_panda55/
+photo.24.tags: bridge, grumpy, paws
+photo.25: https://www.instagram.com/p/Byo7q49hssU/media/?size=m
+photo.25.author: pantasanzoo1
+photo.25.link: https://www.instagram.com/pantasanzoo1/
+photo.25.tags: bridge
+photo.26: https://www.instagram.com/p/ByxCZ5ZBCpZ/media/?size=m
+photo.26.author: kotata_513
+photo.26.link: https://www.instagram.com/kotata_513/
+photo.26.tags: mofumofu, portrait, smile
+photo.27: https://www.instagram.com/p/By2PcPahQAn/media/?size=m
+photo.27.author: chocopan102
+photo.27.link: https://www.instagram.com/chocopan102/
+photo.27.tags: mofumofu, paws
+species: 2
+zoo: 17

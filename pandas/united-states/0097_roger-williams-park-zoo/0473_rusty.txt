@@ -1,0 +1,19 @@
+[panda]
+_id: 473
+birthday: 2005/5/16
+birthplace: 76
+children: 413, 414, 415
+en.name: Rusty
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: ラスティ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 590
+location.1: 76, 2005/5/16
+location.2: 83, 2006/10/31
+location.3: 97, 2014/12/11
+species: 2
+zoo: 97

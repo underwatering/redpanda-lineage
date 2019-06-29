@@ -1,0 +1,29 @@
+[panda]
+_id: 421
+birthday: 2015/6/26
+birthplace: 87
+children: none
+en.name: Addison
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: アディソン
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 420
+location.1: 87, 2015/6/26
+location.2: 44, 2016/3/17
+photo.1: https://www.instagram.com/p/BcPqAUogukf/media/?size=m
+photo.1.author: newzoogb
+photo.1.link: https://www.instagram.com/newzoogb/
+photo.1.tags: laying down
+photo.2: https://www.instagram.com/p/BdXwfVHAv7J/media/?size=m
+photo.2.author: newzoogb
+photo.2.link: https://www.instagram.com/newzoogb/
+photo.2.tags: profile, tongue
+photo.3: https://www.instagram.com/p/BmBqom_gItw/media/?size=m
+photo.3.author: newzoogb
+photo.3.link: https://www.instagram.com/newzoogb/
+species: 2
+zoo: 44

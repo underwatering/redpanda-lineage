@@ -1,0 +1,26 @@
+[panda]
+_id: 394
+birthday: 2013/6/22
+birthplace: 84
+children: none
+en.name: Gen Tso
+en.nicknames: none
+en.othernames: General Tso, General T'so
+gender: m
+jp.name: 将軍ズオ
+jp.nicknames: none
+jp.othernames: しょうぐんズオ
+language.order: en, jp
+litter: 493
+location.1: 84, 2013/6/22
+location.2: 43, 2014/6/5
+photo.1: https://www.instagram.com/p/BnCCbdxDvnr/media/?size=m
+photo.1.author: columbus_zoo
+photo.1.link: https://www.instagram.com/columbus_zoo/
+photo.1.tags: profile
+photo.2: https://www.instagram.com/p/BG84DY2ykEx/media/?size=m
+photo.2.author: worldthathesees
+photo.2.link: https://www.instagram.com/worldthathesees/
+photo.2.tags: smile, tongue
+species: 2
+zoo: 43

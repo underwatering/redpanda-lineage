@@ -1,0 +1,57 @@
+[panda]
+_id: 339
+birthday: 1999/7/21
+birthplace: 42
+children: none
+en.name: Miku
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ミク
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 570
+location.1: 42, 1999/7/21
+location.2: 74, 2012/12/26
+photo.1: https://www.instagram.com/p/BnntKc_lTua/media/?size=m
+photo.1.author: rie_panda55
+photo.1.link: https://www.instagram.com/rie_panda55/
+photo.1.tags: laying down, old
+photo.2: https://www.instagram.com/p/BqlW5dPlO44/media/?size=m
+photo.2.author: kipekaila
+photo.2.link: https://www.instagram.com/kipekaila/
+photo.2.tags: eye, laying down, old, profile, tail
+photo.3: https://www.instagram.com/p/BX6STCwB93x/media/?size=m
+photo.3.author: miis_98
+photo.3.link: https://www.instagram.com/miis_98/
+photo.3.tags: old, laying down, tail
+photo.4: https://www.instagram.com/p/BRQQwvplUiJ/media/?size=m
+photo.4.author: rdpnzoo
+photo.4.link: https://www.instagram.com/rdpnzoo/
+photo.5: https://www.instagram.com/p/BvTuD6bFrxK/media/?size=m
+photo.5.author: daniele.tokyo
+photo.5.link: https://www.instagram.com/daniele.tokyo/
+photo.5.tags: dish, sleeping
+photo.6: https://www.instagram.com/p/BwTMy_-lQLY/media/?size=m
+photo.6.author: ifumoto88
+photo.6.link: https://www.instagram.com/ifumoto88/
+photo.6.tags: eye, old
+photo.7: https://www.instagram.com/p/BwUCv-DFsQw/media/?size=m
+photo.7.author: ifumoto88
+photo.7.link: https://www.instagram.com/ifumoto88/
+photo.7.tags: eye, old
+photo.8: https://www.instagram.com/p/Bx7G21fhkwT/media/?size=m
+photo.8.author: kaoru_a358
+photo.8.link: https://www.instagram.com/kaoru_a358/
+photo.8.tags: eye, tongue
+photo.9: https://www.instagram.com/p/BzGEMVohT4K/media/?size=m
+photo.9.author: kipekaila
+photo.9.link: https://www.instagram.com/kipekaila/
+photo.9.tags: eye, laying down, portrait
+photo.10: https://www.instagram.com/p/BzEdu_oBZIY/media/?size=m
+photo.10.author: kipekaila
+photo.10.link: https://www.instagram.com/kipekaila/
+photo.10.tags: laying down, smile
+species: 2
+zoo: 74

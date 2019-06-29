@@ -1,0 +1,38 @@
+[panda]
+_id: 146
+birthday: 2016/6/2
+birthplace: 16
+children: none
+en.name: Holy
+en.nicknames: none
+en.othernames: Holly
+gender: f
+jp.name: ホーリー
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+photo.1: https://www.instagram.com/p/BjheSm-lCkF/media/?size=m
+photo.1.author: redpanda_nippon_takashi
+photo.1.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.1.tags: baby, profile
+photo.2: https://www.instagram.com/p/BjfN3A-FVfh/media/?size=m
+photo.2.author: panda.daisuki
+photo.2.link: https://www.instagram.com/panda.daisuki/
+photo.2.tags: baby
+photo.3: https://www.instagram.com/p/Bo3yE9hFT_t/media/?size=m
+photo.3.author: ifumoto88
+photo.3.link: https://www.instagram.com/ifumoto88/
+photo.4: https://www.instagram.com/p/BshafLjFESb/media/?size=m
+photo.4.author: yakko____
+photo.4.link: https://www.instagram.com/yakko____/
+photo.4.tags: tail, tongue
+photo.5: https://www.instagram.com/p/BvJi9-WlHVn/media/?size=m
+photo.5.author: taka__3428
+photo.5.link: https://www.instagram.com/taka__3428/
+photo.5.tags: sleeping
+photo.6: https://www.instagram.com/p/BOUUU7xD3NF/media/?size=m
+photo.6.author: mariten1119
+photo.6.link: https://www.instagram.com/mariten1119/
+photo.6.tags: baby
+species: 2
+zoo: 16

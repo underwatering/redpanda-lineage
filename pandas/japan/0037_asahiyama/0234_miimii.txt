@@ -1,0 +1,52 @@
+[panda]
+_id: 234
+birthday: 2017/7/15
+birthplace: 37
+children: none
+en.name: Mii-Mii
+en.nicknames: none
+en.othernames: Miimii, Myi-Myi, Myimyi, Mie-Mie
+gender: f
+jp.name: 糸糸
+jp.nicknames: none
+jp.othernames: ミイミイ
+language.order: jp, en
+litter: 233
+photo.1: https://www.instagram.com/p/BkeLA4GlKgU/media/?size=m
+photo.1.author: framereim
+photo.1.link: https://www.instagram.com/framereim/
+photo.1.tags: laying down, paws, upside-down
+photo.2: https://www.instagram.com/p/Bl5T8ZYlGtP/media/?size=m
+photo.2.author: ho0oipo
+photo.2.link: https://www.instagram.com/ho0oipo/
+photo.2.tags: bridge, laying down, tongue
+photo.3: https://www.instagram.com/p/BoKtPB-lZEr/media/?size=m
+photo.3.author: miis_98
+photo.3.link: https://www.instagram.com/miis_98/
+photo.3.tags: bridge, profile
+photo.4: https://www.instagram.com/p/BrY02-ilSXh/media/?size=m
+photo.4.author: mifko55
+photo.4.link: https://www.instagram.com/mifko55/
+photo.4.tags: home, standing
+photo.5: https://www.instagram.com/p/BbyxUv-F56-/media/?size=m
+photo.5.author: hanamaru_redpanda
+photo.5.link: https://www.instagram.com/hanamaru_redpanda/
+photo.5.tags: baby
+photo.6: https://www.instagram.com/p/BuPoj52lq-6/media/?size=m
+photo.6.author: kipekaila
+photo.6.link: https://www.instagram.com/kipekaila/
+photo.6.tags: snow, techitechi
+photo.7: https://www.instagram.com/p/BpJmsbbF1uu/media/?size=m
+photo.7.author: nishicotolo
+photo.7.link: https://www.instagram.com/nishicotolo/
+photo.7.tags: paws
+photo.8: https://www.instagram.com/p/BtZmvrqF-K3/media/?size=m
+photo.8.author: asahiyamazoo1
+photo.8.link: https://www.instagram.com/asahiyamazoo1/
+photo.8.tags: long-tongue, tongue
+photo.9: https://www.instagram.com/p/By3_TF1Bzye/media/?size=m
+photo.9.author: tama67photo
+photo.9.link: https://www.instagram.com/tama67photo/
+photo.9.tags: portrait, tree
+species: 2
+zoo: 37

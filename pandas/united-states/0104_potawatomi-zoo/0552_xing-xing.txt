@@ -1,0 +1,16 @@
+[panda]
+_id: 552
+birthday: 2017/6/20
+birthplace: 144
+children: unknown
+en.name: Xing-Xing
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: 興興
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: unknown
+species: 1
+zoo: 104

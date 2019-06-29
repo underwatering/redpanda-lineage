@@ -1,0 +1,32 @@
+[panda]
+_id: 667
+birthday: 2001/7/9
+birthplace: 118
+children: 676, 677, 678, 679, 541, 680
+en.name: Cyril
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: キリル
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 518
+location.1: 118, 2001/7/9
+location.2: 122, 2002/3/13
+location.3: 154, 2003/11/4
+location.4: 117, 2011/10/31
+photo.1: https://www.instagram.com/p/tqvKnXykBd/media/?size=m
+photo.1.author: worldthathesees
+photo.1.link: https://www.instagram.com/worldthathesees/
+photo.1.tags: profile, smile, tongue
+photo.2: https://www.instagram.com/p/Bnw9h2ohxPq/media/?size=m
+photo.2.author: trevorzoomillbrook
+photo.2.link: https://www.instagram.com/trevorzoomillbrook/
+photo.2.tags: smile, tongue
+photo.3: https://www.instagram.com/p/BnkMdHNBQBJ/media/?size=m
+photo.3.author: trevorzoomillbrook
+photo.3.link: https://www.instagram.com/trevorzoomillbrook/
+photo.3.tags: maybe
+species: 1
+zoo: 117

@@ -1,0 +1,44 @@
+[panda]
+_id: 198
+birthday: 2010/7/10
+birthplace: 7
+children: 51, 284, 200
+en.name: Lily
+en.nicknames: none
+en.othernames: none
+es.name: Lily
+es.nicknames: none
+es.othernames: none
+gender: f
+jp.name: リリィ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, es, en
+litter: 60
+location.1: 7, 2010/7/10
+location.2: 9, 2012/4/23
+location.3: 56, 2015/5/1
+photo.1: https://www.instagram.com/p/8I749lIXNe/media/?size=m
+photo.1.author: buse_cnv
+photo.1.link: https://www.instagram.com/buse_cnv/
+photo.2: https://www.instagram.com/p/txdURnOPkj/media/?size=m
+photo.2.author: kota795
+photo.2.link: https://www.instagram.com/kota795/
+photo.2.tags: profile, tree
+photo.3: https://www.codaworry.com/images/rpf/lily-1-santiago.jpg
+photo.3.author: shin-lachitina
+photo.3.link: https://shinlachi.exblog.jp/20199319/
+photo.3.tags: bamboo, snow
+photo.4: https://www.instagram.com/p/BaM4jSpBdiO/media/?size=m
+photo.4.author: sophierockshots
+photo.4.link: https://www.instagram.com/sophierockshots/
+photo.5: https://www.instagram.com/p/BZxIeFgByWE/media/?size=m
+photo.5.author: sophierockshots
+photo.5.link: https://www.instagram.com/sophierockshots/
+photo.5.tags: blink, mofumofu, portrait, tail
+photo.6: https://www.instagram.com/p/BZxH8c5BJzQ/media/?size=m
+photo.6.author: sophierockshots
+photo.6.link: https://www.instagram.com/sophierockshots/
+photo.6.tags: sleeping, tail
+species: 2
+zoo: 56

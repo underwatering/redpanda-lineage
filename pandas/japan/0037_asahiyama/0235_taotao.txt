@@ -1,0 +1,72 @@
+[panda]
+_id: 235
+birthday: 2018/7/11
+birthplace: 37
+children: none
+en.name: Tao-Tao
+en.nicknames: none
+en.othernames: Taotao
+gender: f
+jp.name: 桃桃
+jp.nicknames: none
+jp.othernames: タオタオ
+language.order: jp, en
+litter: 236
+photo.1: https://www.instagram.com/p/BqeqTShFbYt/media/?size=m
+photo.1.author: fetorus_mami
+photo.1.link: https://www.instagram.com/fetorus_mami/
+photo.1.tags: baby, mofumofu, snow
+photo.2: https://www.instagram.com/p/BqcHRgAFYc3/media/?size=m
+photo.2.author: asahiyamazoo1
+photo.2.link: https://www.instagram.com/asahiyamazoo1/
+photo.2.tags: baby, techitechi
+photo.3: https://www.instagram.com/p/BqvSjhPFYuW/media/?size=m
+photo.3.author: ho0oipo
+photo.3.link: https://www.instagram.com/ho0oipo/
+photo.3.tags: baby, dish
+photo.4: https://www.instagram.com/p/Bq8RDstFTmZ/media/?size=m
+photo.4.author: craig_craig_craig
+photo.4.link: https://www.instagram.com/craig_craig_craig/
+photo.4.tags: baby, bamboo, snow
+photo.5: https://www.instagram.com/p/BsR28uoFeTx/media/?size=m
+photo.5.author: tabechum
+photo.5.link: https://www.instagram.com/tabechum/
+photo.5.tags: profile, snow
+photo.6: https://www.instagram.com/p/BsfxR_mla76/media/?size=m
+photo.6.author: leonard_redmof
+photo.6.link: https://www.instagram.com/leonard_redmof/
+photo.6.tags: climb
+photo.7: https://www.instagram.com/p/BtHo2KCF8DA/media/?size=m
+photo.7.author: shirokuma_jump
+photo.7.link: https://www.instagram.com/shirokuma_jump/
+photo.7.tags: mofumofu, snow
+photo.8: https://www.instagram.com/p/BtKdUPmloyH/media/?size=m
+photo.8.author: tabechum
+photo.8.link: https://www.instagram.com/tabechum/
+photo.8.tags: bamboo, climb, snow
+photo.9: https://www.instagram.com/p/BtfCCswlAlo/media/?size=m
+photo.9.author: tabechum
+photo.9.link: https://www.instagram.com/tabechum/
+photo.9.tags: climb, snow
+photo.10: https://www.instagram.com/p/Bt0T1BglcLV/media/?size=m
+photo.10.author: asahiyamazoo1
+photo.10.link: https://www.instagram.com/asahiyamazoo1/
+photo.10.tags: apple time, snow, tongue
+photo.11: https://www.instagram.com/p/BwlTe_TFW6P/media/?size=m
+photo.11.author: tabechum
+photo.11.link: https://www.instagram.com/tabechum/
+photo.11.tags: snow
+photo.12: https://www.instagram.com/p/BxePGd-lAjk/media/?size=m
+photo.12.author: sasapan34
+photo.12.link: https://www.instagram.com/sasapan34/
+photo.12.tags: nose, snow
+photo.13: https://www.instagram.com/p/BvSkod1lKH1/media/?size=m
+photo.13.author: asahiyamazoo1
+photo.13.link: https://www.instagram.com/asahiyamazoo1/
+photo.13.tags: home
+photo.14: https://www.instagram.com/p/Byu0JT0hYqX/media/?size=m
+photo.14.author: sasapan34
+photo.14.link: https://www.instagram.com/sasapan34/
+photo.14.tags: apple time
+species: 2
+zoo: 37

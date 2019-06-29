@@ -1,0 +1,52 @@
+[panda]
+_id: 289
+birthday: 2013/6/22
+birthplace: 64
+children: none
+en.name: Anko
+en.nicknames: Red-Bean
+en.othernames: none
+gender: f
+jp.name: アンコ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: none
+location.1: 64, 2013/6/22
+location.2: 63, 2016/11/2
+photo.1: https://www.instagram.com/p/BgV_VLSFuAx/media/?size=m
+photo.1.author: mikaamihara
+photo.1.link: https://www.instagram.com/mikaamihara/
+photo.2: https://www.instagram.com/p/Bgf7bOAFCV9/media/?size=m
+photo.2.author: mikaamihara
+photo.2.link: https://www.instagram.com/mikaamihara/
+photo.2.tags: laying down, tail
+photo.3: https://www.instagram.com/p/BnyC7_nlYfu/media/?size=m
+photo.3.author: lespan33
+photo.3.link: https://www.instagram.com/lespan33/
+photo.3.tags: laying down
+photo.4: https://www.instagram.com/p/BkUyeQPgaON/media/?size=m
+photo.4.author: mikaamihara
+photo.4.link: https://www.instagram.com/mikaamihara/
+photo.4.tags: profile
+photo.5: https://www.instagram.com/p/BjuD5DLAn43/media/?size=m
+photo.5.author: mikaamihara
+photo.5.link: https://www.instagram.com/mikaamihara/
+photo.6: https://www.instagram.com/p/Bhth1zeFntr/media/?size=m
+photo.6.author: mikaamihara
+photo.6.link: https://www.instagram.com/mikaamihara/
+photo.6.tags: techitechi
+photo.7: https://www.instagram.com/p/BsaZKg7lfml/media/?size=m
+photo.7.author: mikaamihara
+photo.7.link: https://www.instagram.com/mikaamihara/
+photo.7.tags: techitechi, tree
+photo.8: https://www.instagram.com/p/Bx8dhUFBoeU/media/?size=m
+photo.8.author: rie_panda55
+photo.8.link: https://www.instagram.com/rie_panda55/
+photo.8.tags: laying down, tree
+photo.9: https://www.instagram.com/p/BzNomPahE-N/media/?size=m
+photo.9.author: mikaamihara
+photo.9.link: https://www.instagram.com/mikaamihara/
+photo.9.tags: portrait, tongue
+species: 2
+zoo: 63

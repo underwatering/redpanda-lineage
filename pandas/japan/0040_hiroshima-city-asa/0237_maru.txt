@@ -1,0 +1,60 @@
+[panda]
+_id: 237
+birthday: 2015/6/26
+birthplace: 40
+children: none
+en.name: Maru
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: マル
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 127
+photo.1: https://www.instagram.com/p/BiszTQ0l6NW/media/?size=m
+photo.1.author: re_ichimaru
+photo.1.link: https://www.instagram.com/re_ichimaru/
+photo.1.tags: grumpy, tail
+photo.2: https://www.instagram.com/p/BbCUNSIjT9-/media/?size=m
+photo.2.author: panda.daisuki
+photo.2.link: https://www.instagram.com/panda.daisuki/
+photo.2.tags: smile
+photo.3: https://www.instagram.com/p/Bh0xPLihfPq/media/?size=m
+photo.3.author: mana.sendo
+photo.3.link: https://www.instagram.com/mana.sendo/
+photo.3.tags: apple time, standing
+photo.4: https://www.instagram.com/p/BUMyVOUA0ft/media/?size=m
+photo.4.author: minatomirai215
+photo.4.link: https://www.instagram.com/minatomirai215/
+photo.4.tags: bamboo
+photo.5: https://www.instagram.com/p/BoF8AFnllPH/media/?size=m
+photo.5.author: kmasahon
+photo.5.link: https://www.instagram.com/kmasahon/
+photo.5.tags: apple time, paws, standing
+photo.6: https://www.instagram.com/p/BpMCE_eF6LA/media/?size=m
+photo.6.author: kmasahon
+photo.6.link: https://www.instagram.com/kmasahon/
+photo.6.tags: profile, smile
+photo.7: https://www.instagram.com/p/Bp77NthFp2K/media/?size=m
+photo.7.author: kmasahon
+photo.7.link: https://www.instagram.com/kmasahon/
+photo.7.tags: bamboo, nose, tongue
+photo.8: https://www.instagram.com/p/BqO_muzlYBG/media/?size=m
+photo.8.author: kmasahon
+photo.8.link: https://www.instagram.com/kmasahon/
+photo.8.tags: apple time, keeper, techitechi
+photo.9: https://www.instagram.com/p/BvQ9E1lljQR/media/?size=m
+photo.9.author: kmasahon
+photo.9.link: https://www.instagram.com/kmasahon/
+photo.9.tags: paws, tongue
+photo.10: https://www.instagram.com/p/BvTbcvLFmU0/media/?size=m
+photo.10.author: kmasahon
+photo.10.link: https://www.instagram.com/kmasahon/
+photo.10.tags: tree
+photo.11: https://www.instagram.com/p/BzAcQRBhuIA/media/?size=m
+photo.11.author: kmasahon
+photo.11.link: https://www.instagram.com/kmasahon/
+photo.11.tags: paws, smile, tail
+species: 2
+zoo: 40

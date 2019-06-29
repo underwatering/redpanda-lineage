@@ -1,0 +1,30 @@
+[panda]
+_id: 180
+birthday: 2011/7/12
+birthplace: 6
+children: 181, 182, 183, 73
+en.name: Ayame
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: アヤメ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 144
+location.1: 6, 2011/7/12
+location.2: 31, 2013/10/1
+photo.1: https://www.instagram.com/p/BRx2Xt1gu01/media/?size=m
+photo.1.author: peek_a_boo00
+photo.1.link: https://www.instagram.com/peek_a_boo00/
+photo.1.tags: bamboo, profile
+photo.2: https://www.instagram.com/p/BmLgXicAsPN/media/?size=m
+photo.2.author: bee_san.13
+photo.2.link: https://www.instagram.com/bee_san.13/
+photo.2.tags: standing, tongue
+photo.3: https://www.instagram.com/p/Bm2-gXDj82K/media/?size=m
+photo.3.author: bee_san.13
+photo.3.link: https://www.instagram.com/bee_san.13/
+photo.3.tags: smile
+species: 2
+zoo: 31

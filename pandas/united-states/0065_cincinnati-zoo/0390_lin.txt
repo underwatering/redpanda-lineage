@@ -1,0 +1,36 @@
+[panda]
+_id: 390
+birthday: 2013/6/16
+birthplace: 65
+children: 392, 323, 425, 614
+en.name: Lin
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: リン
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: none
+photo.1: https://www.instagram.com/p/Boy_z2XlClK/media/?size=m
+photo.1.author: worldthathesees
+photo.1.link: https://www.instagram.com/worldthathesees/
+photo.1.tags: smile, tail
+photo.2: https://www.instagram.com/p/BM9MuzZAZhx/media/?size=m
+photo.2.author: cincinnatizoo
+photo.2.link: https://www.instagram.com/cincinnatizoo/
+photo.2.tags: profile, techitechi
+photo.3: https://www.instagram.com/p/BA-Kx3xykLX/media/?size=m
+photo.3.author: worldthathesees
+photo.3.link: https://www.instagram.com/worldthathesees/
+photo.3.tags: bamboo, paws, standing
+photo.4: https://www.instagram.com/p/Btlh51llkl4/media/?size=m
+photo.4.author: carsontheredpanda
+photo.4.link: https://www.instagram.com/carsontheredpanda/
+photo.4.tags: apple time
+photo.5: https://www.instagram.com/p/BUcQckHjXSc/media/?size=m
+photo.5.author: carsontheredpanda
+photo.5.link: https://www.instagram.com/carsontheredpanda/
+photo.5.tags: lunch time
+species: 2
+zoo: 65

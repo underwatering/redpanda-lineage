@@ -1,0 +1,34 @@
+[panda]
+_id: 70
+birthday: 2014/7/7
+birthplace: 6
+children: none
+en.name: Hiko
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ヒコ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+photo.1: https://www.instagram.com/p/BiS7Xa7FTRO/media/?size=m
+photo.1.author: kotata_513
+photo.1.link: https://www.instagram.com/kotata_513/
+photo.1.tags: profile
+photo.2: https://www.instagram.com/p/Bi_tWc3lotw/media/?size=m
+photo.2.author: re_ichimaru
+photo.2.link: https://www.instagram.com/re_ichimaru/
+photo.2.tags: tree
+photo.3: https://www.instagram.com/p/Bk6Yq95FW0Z/media/?size=m
+photo.3.author: minatomirai215
+photo.3.link: https://www.instagram.com/minatomirai215/
+photo.4: https://www.instagram.com/p/BZ_VtBSAru5/media/?size=m
+photo.4.author: chiyo_redpanda
+photo.4.link: https://www.instagram.com/chiyo_redpanda/
+photo.4.tags: smile
+photo.5: https://www.instagram.com/p/BzHyJLWhT6k/media/?size=m
+photo.5.author: totolove0724
+photo.5.link: https://www.instagram.com/totolove0724/
+photo.5.tags: portrait, smile
+species: 2
+zoo: 6

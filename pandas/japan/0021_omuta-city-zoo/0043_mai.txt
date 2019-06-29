@@ -1,0 +1,106 @@
+[panda]
+_id: 43
+birthday: 2013/6/23
+birthplace: 8
+children: 243
+en.name: Mai
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: まい
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 38
+location.1: 8, 2013/6/23
+location.2: 21, 2016/11/17
+photo.1: https://www.instagram.com/p/BVqEjILgxCc/media/?size=m
+photo.1.author: panda.daisuki
+photo.1.link: https://www.instagram.com/panda.daisuki/
+photo.1.tags: portrait, profile
+photo.2: https://www.instagram.com/p/BjmREN0lpf6/media/?size=m
+photo.2.author: yossi929
+photo.2.link: https://www.instagram.com/yossi929/
+photo.2.tags: portrait, tree
+photo.3: https://www.instagram.com/p/BinXQZHl7b3/media/?size=m
+photo.3.author: yossi929
+photo.3.link: https://www.instagram.com/yossi929/
+photo.3.tags: bamboo, portrait
+photo.4: https://www.instagram.com/p/BixwcaJlQ4Y/media/?size=m
+photo.4.author: yossi929
+photo.4.link: https://www.instagram.com/yossi929/
+photo.4.tags: portrait, smile
+photo.5: https://www.instagram.com/p/BhY-wNHljzf/media/?size=m
+photo.5.author: panda.daisuki
+photo.5.link: https://www.instagram.com/panda.daisuki/
+photo.5.tags: air tasting, tongue
+photo.6: https://www.instagram.com/p/BnuVvmkFSDo/media/?size=m
+photo.6.author: yossi929
+photo.6.link: https://www.instagram.com/yossi929/
+photo.6.tags: paws, portrait
+photo.7: https://www.instagram.com/p/BpbqQddldij/media/?size=m
+photo.7.author: xmarurux
+photo.7.link: https://www.instagram.com/xmarurux/
+photo.7.tags: laying down
+photo.8: https://www.instagram.com/p/BsaXPhJlbUe/media/?size=m
+photo.8.author: xmarurux
+photo.8.link: https://www.instagram.com/xmarurux/
+photo.8.tags: bamboo
+photo.9: https://www.instagram.com/p/Bsl1OzlFnh1/media/?size=m
+photo.9.author: rie_panda55
+photo.9.link: https://www.instagram.com/rie_panda55/
+photo.9.tags: bamboo
+photo.10: https://www.instagram.com/p/BssD5ZAla0S/media/?size=m
+photo.10.author: xmarurux
+photo.10.link: https://www.instagram.com/xmarurux/
+photo.10.tags: bamboo, portrait, standing
+photo.11: https://www.instagram.com/p/BwOibAzF7I3/media/?size=m
+photo.11.author: miis_98
+photo.11.link: https://www.instagram.com/miis_98/
+photo.11.tags: portrait, tree
+photo.12: https://www.instagram.com/p/BwS7b4-lDjr/media/?size=m
+photo.12.author: yossi929
+photo.12.link: https://www.instagram.com/yossi929/
+photo.12.tags: bamboo, portrait, smile
+photo.13: https://www.instagram.com/p/BxI-l1fFE_y/media/?size=m
+photo.13.author: yossi929
+photo.13.link: https://www.instagram.com/yossi929/
+photo.13.tags: bamboo, smile
+photo.14: https://www.instagram.com/p/Biw5U0SFNku/media/?size=m
+photo.14.author: panda.daisuki
+photo.14.link: https://www.instagram.com/panda.daisuki/
+photo.14.tags: apple time, keeper, paws, portrait, standing, tail
+photo.15: https://www.instagram.com/p/BRy7wlaFJOd/media/?size=m
+photo.15.author: yossi929
+photo.15.link: https://www.instagram.com/yossi929/
+photo.15.tags: bamboo, paws, smile, tongue
+photo.16: https://www.instagram.com/p/BR5SLcAlGBa/media/?size=m
+photo.16.author: yossi929
+photo.16.link: https://www.instagram.com/yossi929/
+photo.16.tags: nose, tongue
+photo.17: https://www.instagram.com/p/BmkzWvVFYVZ/media/?size=m
+photo.17.author: re_ichimaru
+photo.17.link: https://www.instagram.com/re_ichimaru/
+photo.17.tags: bamboo, tongue
+photo.18: https://www.instagram.com/p/Bx6bz4jBz24/media/?size=m
+photo.18.author: mishimarugo
+photo.18.link: https://www.instagram.com/mishimarugo/
+photo.18.tags: home, paws, portrait, smile
+photo.19: https://www.instagram.com/p/Bn7KzbAlhae/media/?size=m
+photo.19.author: xmarurux
+photo.19.link: https://www.instagram.com/xmarurux/
+photo.19.tags: itchy
+photo.20: https://www.instagram.com/p/BV8nrAXgL9I/media/?size=m
+photo.20.author: omutacityzoo
+photo.20.link: https://www.instagram.com/omutacityzoo/
+photo.20.tags: laying down, portrait, sleeping
+photo.21: https://www.instagram.com/p/BXB2BTUA82H/media/?size=m
+photo.21.author: omutacityzoo
+photo.21.link: https://www.instagram.com/omutacityzoo/
+photo.21.tags: home, laying down, paws
+photo.22: https://www.instagram.com/p/BzF2V37BNdr/media/?size=m
+photo.22.author: xmarurux
+photo.22.link: https://www.instagram.com/xmarurux/
+photo.22.tags: paws
+species: 2
+zoo: 21

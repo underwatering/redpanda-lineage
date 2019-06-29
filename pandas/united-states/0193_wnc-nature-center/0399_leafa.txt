@@ -1,0 +1,52 @@
+[panda]
+_id: 399
+birthday: 2009/6/11
+birthplace: 83
+children: 150, 480, 420, 421, 416, 417
+en.name: Leafa
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: リーファ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 402, 403
+location.1: 83, 2009/6/11
+location.2: 44, 2010/6/8
+location.3: 88, 2013/11/20
+location.4: 87, 2014/12/22
+location.5: 193, 2019/5/1
+photo.1: https://www.codaworry.com/images/rpf/leafa-1-lincolnpark.jpg
+photo.1.author: worldthathesees
+photo.1.link: https://www.instagram.com/worldthathesees/
+photo.1.tags: smile
+photo.2: https://www.codaworry.com/images/rpf/leafa-2-lincolnpark.jpg
+photo.2.author: worldthathesees
+photo.2.link: https://www.instagram.com/worldthathesees/
+photo.2.tags: bamboo
+photo.3: https://www.codaworry.com/images/rpf/leafa-3-lincolnpark.jpg
+photo.3.author: worldthathesees
+photo.3.link: https://www.instagram.com/worldthathesees/
+photo.3.tags: smile
+photo.4: https://www.codaworry.com/images/rpf/leafa-4-lincolnpark.jpg
+photo.4.author: worldthathesees
+photo.4.link: https://www.instagram.com/worldthathesees/
+photo.4.tags: laying down
+photo.5: https://www.codaworry.com/images/rpf/leafa-5-lincolnpark.jpg
+photo.5.author: worldthathesees
+photo.5.link: https://www.instagram.com/worldthathesees/
+photo.5.tags: profile
+photo.6: https://www.instagram.com/p/BqIrO5LhsIr/media/?size=m
+photo.6.author: lincolnparkzoo
+photo.6.link: https://www.instagram.com/lincolnparkzoo/
+photo.6.tags: lips
+photo.7: https://www.instagram.com/p/BnwRfpWB4Pb/media/?size=m
+photo.7.author: lincolnparkzoo
+photo.7.link: https://www.instagram.com/lincolnparkzoo/
+photo.8: https://www.instagram.com/p/BaUyedwj9Pi/media/?size=m
+photo.8.author: lincolnparkzoo
+photo.8.link: https://www.instagram.com/lincolnparkzoo/
+photo.8.tags: pumpkin
+species: 2
+zoo: 193

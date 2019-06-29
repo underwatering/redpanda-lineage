@@ -1,0 +1,34 @@
+[panda]
+_id: 328
+birthday: 2002/7/17
+birthplace: 6
+children: 3
+en.name: Aiai
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: アイアイ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 76
+location.1: 6, 2002/7/17
+location.2: 3, 2007/1/31
+photo.1: https://www.instagram.com/p/Bp-y3CklnyZ/media/?size=m
+photo.1.author: tabechum
+photo.1.link: https://www.instagram.com/tabechum/
+photo.1.tags: lunch time, profile, smile, tongue
+photo.2: https://www.instagram.com/p/Bj53fZvAxyM/media/?size=m
+photo.2.author: ngsbiopark
+photo.2.link: https://www.instagram.com/ngsbiopark/
+photo.2.tags: smile
+photo.3: https://www.instagram.com/p/BT6Yj2fFSqn/media/?size=m
+photo.3.author: sbskyy
+photo.3.link: https://www.instagram.com/sbskyy/
+photo.3.tags: laying down
+photo.4: https://www.instagram.com/p/BxZq0pUFfGS/media/?size=m
+photo.4.author: daniele.tokyo
+photo.4.link: https://www.instagram.com/daniele.tokyo/
+photo.4.tags: tongue, white face
+species: 2
+zoo: 3

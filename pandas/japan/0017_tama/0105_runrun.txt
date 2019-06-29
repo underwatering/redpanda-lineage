@@ -1,0 +1,93 @@
+[panda]
+_id: 105
+birthday: 2007/6/28
+birthplace: 17
+children: 185
+en.name: Run-Run
+en.nicknames: none
+en.othernames: Runrun
+gender: m
+jp.name: ルンルン
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 36
+photo.1: https://www.instagram.com/p/Bjt78FclniF/media/?size=m
+photo.1.author: kotata_513
+photo.1.link: https://www.instagram.com/kotata_513/
+photo.1.tags: portrait, profile
+photo.2: https://www.instagram.com/p/Bk41aEmFQ5N/media/?size=m
+photo.2.author: mariten1119
+photo.2.link: https://www.instagram.com/mariten1119/
+photo.3: https://www.instagram.com/p/BlBwN8llPDB/media/?size=m
+photo.3.author: _natsu_panda_
+photo.3.link: https://www.instagram.com/_natsu_panda_/
+photo.3.tags: grooming, portrait, tongue, tail
+photo.4: https://www.instagram.com/p/BpgQHeHgGtz/media/?size=m
+photo.4.author: miis_98
+photo.4.link: https://www.instagram.com/miis_98/
+photo.4.tags: portrait, tail
+photo.5: https://www.instagram.com/p/Bpt-m6PFisl/media/?size=m
+photo.5.author: roko_mm
+photo.5.link: https://www.instagram.com/roko_mm/
+photo.5.tags: portrait
+photo.6: https://www.instagram.com/p/BpwgY5Ul3uL/media/?size=m
+photo.6.author: mofu_pan
+photo.6.link: https://www.instagram.com/mofu_pan/
+photo.6.tags: portrait
+photo.7: https://www.instagram.com/p/Bp7dCzflEtc/media/?size=m
+photo.7.author: hiro107ig_zoo
+photo.7.link: https://www.instagram.com/hiro107ig_zoo/
+photo.7.tags: tree
+photo.8: https://www.instagram.com/p/BqEy5RrFMDH/media/?size=m
+photo.8.author: cabbage_biyori
+photo.8.link: https://www.instagram.com/cabbage_biyori/
+photo.8.tags: tree
+photo.9: https://www.instagram.com/p/BqNCw-wFWcg/media/?size=m
+photo.9.author: hiro107ig_zoo
+photo.9.link: https://www.instagram.com/hiro107ig_zoo/
+photo.10: https://www.instagram.com/p/BqTjrialL6T/media/?size=m
+photo.10.author: kotata_513
+photo.10.link: https://www.instagram.com/kotata_513/
+photo.10.tags: portrait
+photo.11: https://www.instagram.com/p/Be2gwz4lW-p/media/?size=m
+photo.11.author: hanamaru_redpanda
+photo.11.link: https://www.instagram.com/hanamaru_redpanda/
+photo.11.tags: portrait, snow
+photo.12: https://www.instagram.com/p/BrOOF0xl294/media/?size=m
+photo.12.author: _natsu_panda_
+photo.12.link: https://www.instagram.com/_natsu_panda_/
+photo.12.tags: portrait, tree
+photo.13: https://www.instagram.com/p/Bq7P91YFQu0/media/?size=m
+photo.13.author: _natsu_panda_
+photo.13.link: https://www.instagram.com/_natsu_panda_/
+photo.13.tags: climb, portrait
+photo.14: https://www.instagram.com/p/BsPjPxkF1V0/media/?size=m
+photo.14.author: kotata_513
+photo.14.link: https://www.instagram.com/kotata_513/
+photo.14.tags: bridge, portrait, smile
+photo.15: https://www.instagram.com/p/BtkWQM7lNLR/media/?size=m
+photo.15.author: resapan.suki
+photo.15.link: https://www.instagram.com/resapan.suki/
+photo.15.tags: bridge, portrait
+photo.16: https://www.instagram.com/p/BuMr5ail7kZ/media/?size=m
+photo.16.author: wumpwoast
+photo.16.link: https://www.instagram.com/wumpwoast/
+photo.17: https://www.instagram.com/p/BwNz31bFcBl/media/?size=m
+photo.17.author: kotata_513
+photo.17.link: https://www.instagram.com/kotata_513/
+photo.17.tags: apple time, keeper, paws
+photo.18: https://www.instagram.com/p/BxQsYxNlcoO/media/?size=m
+photo.18.author: fetorus_mami
+photo.18.link: https://www.instagram.com/fetorus_mami/
+photo.18.tags: mofumofu, tail, tongue
+photo.19: https://www.instagram.com/p/ByPH3isBXwf/media/?size=m
+photo.19.author: kotata_513
+photo.19.link: https://www.instagram.com/kotata_513/
+photo.19.tags: laying down, sleeping
+photo.20: https://www.instagram.com/p/ByfMwbChoEm/media/?size=m
+photo.20.author: resapan.suki
+photo.20.link: https://www.instagram.com/resapan.suki/
+photo.20.tags: portrait
+species: 2
+zoo: 17

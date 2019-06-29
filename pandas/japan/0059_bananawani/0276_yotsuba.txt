@@ -1,0 +1,61 @@
+[panda]
+_id: 276
+birthday: 2016/6/25
+birthplace: 59
+children: none
+en.name: Yotsuba
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: よつば
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 275
+photo.1: https://www.instagram.com/p/BmBWwGQhIvl/media/?size=m
+photo.1.author: miis_98
+photo.1.link: https://www.instagram.com/miis_98/
+photo.2: https://www.instagram.com/p/BbRQRO7lWfk/media/?size=m
+photo.2.author: hanamaru_redpanda
+photo.2.link: https://www.instagram.com/hanamaru_redpanda/
+photo.2.tags: bamboo
+photo.3: https://www.instagram.com/p/BNmL96ml43N/media/?size=m
+photo.3.author: kipekaila
+photo.3.link: https://www.instagram.com/kipekaila/
+photo.3.tags: baby
+photo.4: https://www.instagram.com/p/Birnuu4l65K/media/?size=m
+photo.4.author: fetorus_mami
+photo.4.link: https://www.instagram.com/fetorus_mami/
+photo.4.tags: tree
+photo.5: https://www.instagram.com/p/Bj4gMmElXLp/media/?size=m
+photo.5.author: craig_craig_craig
+photo.5.link: https://www.instagram.com/craig_craig_craig/
+photo.5.tags: tail, tree
+photo.6: https://www.instagram.com/p/BlFpD87lY6Q/media/?size=m
+photo.6.author: hanamaru_redpanda
+photo.6.link: https://www.instagram.com/hanamaru_redpanda/
+photo.6.tags: laying down
+photo.7: https://www.instagram.com/p/Bhi5ZiAF7Ib/media/?size=m
+photo.7.author: hanamaru_redpanda
+photo.7.link: https://www.instagram.com/hanamaru_redpanda/
+photo.7.tags: profile
+photo.8: https://www.instagram.com/p/BrcjqpyFwN3/media/?size=m
+photo.8.author: peek_a_boo00
+photo.8.link: https://www.instagram.com/peek_a_boo00/
+photo.9: https://www.instagram.com/p/Bde54W8FVog/media/?size=m
+photo.9.author: hanamaru_redpanda
+photo.9.link: https://www.instagram.com/hanamaru_redpanda/
+photo.10: https://www.instagram.com/p/Bxcc123l7sT/media/?size=m
+photo.10.author: craig_craig_craig
+photo.10.link: https://www.instagram.com/craig_craig_craig/
+photo.10.tags: air tasting, tongue
+photo.11: https://www.instagram.com/p/Bs74GdgFhkw/media/?size=m
+photo.11.author: hrly2201
+photo.11.link: https://www.instagram.com/hrly2201/
+photo.11.tags: tail
+photo.12: https://www.instagram.com/p/ByoUQ1VBtX9/media/?size=m
+photo.12.author: miis_98
+photo.12.link: https://www.instagram.com/miis_98/
+photo.12.tags: white face
+species: 1
+zoo: 59

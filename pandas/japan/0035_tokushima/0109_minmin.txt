@@ -1,0 +1,80 @@
+[panda]
+_id: 109
+birthday: 2010/6/28
+birthplace: 13
+children: 282, 285, 110, 141, 203, 204
+en.name: Min-Min
+en.nicknames: none
+en.othernames: Minmin
+gender: f
+jp.name: ミンミン
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 26
+location.1: 13, 2010/6/28
+location.2: 35, 2012/4/23
+photo.1: https://www.instagram.com/p/BkkYRbzBXSV/media/?size=m
+photo.1.author: capylife_
+photo.1.link: https://www.instagram.com/capylife_/
+photo.1.tags: profile
+photo.2: https://www.instagram.com/p/BhhBzFklN2C/media/?size=m
+photo.2.author: love__mitarashi
+photo.2.link: https://www.instagram.com/love__mitarashi/
+photo.2.tags: laying down
+photo.3: https://www.instagram.com/p/BhKkuwRB2kQ/media/?size=m
+photo.3.author: love__mitarashi
+photo.3.link: https://www.instagram.com/love__mitarashi/
+photo.3.tags: bamboo
+photo.4: https://www.instagram.com/p/BlOrM6fFsW8/media/?size=m
+photo.4.author: love__mitarashi
+photo.4.link: https://www.instagram.com/love__mitarashi/
+photo.4.tags: bear worm
+photo.5: https://www.instagram.com/p/BoKdc61FVdD/media/?size=m
+photo.5.author: kisshan324
+photo.5.link: https://www.instagram.com/kisshan324/
+photo.6: https://www.instagram.com/p/BoM4rknlwtS/media/?size=m
+photo.6.author: kisshan324
+photo.6.link: https://www.instagram.com/kisshan324/
+photo.6.tags: bamboo
+photo.7: https://www.instagram.com/p/BoPrLSAlnwA/media/?size=m
+photo.7.author: kisshan324
+photo.7.link: https://www.instagram.com/kisshan324/
+photo.7.tags: tree
+photo.8: https://www.instagram.com/p/Bohv1f_FBDX/media/?size=m
+photo.8.author: kisshan324
+photo.8.link: https://www.instagram.com/kisshan324/
+photo.8.tags: laying down
+photo.9: https://www.instagram.com/p/BpED8jFlFGb/media/?size=m
+photo.9.author: love__mitarashi
+photo.9.link: https://www.instagram.com/love__mitarashi/
+photo.10: https://www.instagram.com/p/BpVSEtqlZuT/media/?size=m
+photo.10.author: love__mitarashi
+photo.10.link: https://www.instagram.com/love__mitarashi/
+photo.10.tags: laying down
+photo.11: https://www.instagram.com/p/BqMUPCFl7Tw/media/?size=m
+photo.11.author: love__mitarashi
+photo.11.link: https://www.instagram.com/love__mitarashi/
+photo.11.tags: laying down
+photo.12: https://www.instagram.com/p/Bq_s5ctFgfc/media/?size=m
+photo.12.author: love__mitarashi
+photo.12.link: https://www.instagram.com/love__mitarashi/
+photo.12.tags: bamboo, tongue
+photo.13: https://www.instagram.com/p/BrHafgEFeCF/media/?size=m
+photo.13.author: love__mitarashi
+photo.13.link: https://www.instagram.com/love__mitarashi/
+photo.13.tags: apple time
+photo.14: https://www.instagram.com/p/BtAePUklUQY/media/?size=m
+photo.14.author: love__mitarashi
+photo.14.link: https://www.instagram.com/love__mitarashi/
+photo.14.tags: dish
+photo.15: https://www.instagram.com/p/BtP4PHjlyRC/media/?size=m
+photo.15.author: love__mitarashi
+photo.15.link: https://www.instagram.com/love__mitarashi/
+photo.15.tags: laying down, paws
+photo.16: https://www.instagram.com/p/Bu8sVekFo9q/media/?size=m
+photo.16.author: peek_a_boo00
+photo.16.link: https://www.instagram.com/peek_a_boo00/
+photo.16.tags: home, standing
+species: 2
+zoo: 35

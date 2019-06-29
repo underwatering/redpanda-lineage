@@ -1,0 +1,16 @@
+[zoo]
+_id: 127
+en.address: 2222 St Paul St, Rochester, NY 14621, USA
+en.location: Rochester, New York, USA
+en.name: Seneca Park Zoo
+flag: USA
+language.order: en
+map: https://goo.gl/maps/KcEFhVkJNT62
+photo.1: https://www.instagram.com/p/BwwyyRlgKV9/media/?size=m
+photo.1.author: senecaparkzoo
+photo.1.link: https://www.instagram.com/senecaparkzoo/
+photo.1.tags: profile
+photo.2: https://www.instagram.com/p/BuJduJTFsjq/media/?size=m
+photo.2.author: senecaparkzoo
+photo.2.link: https://www.instagram.com/senecaparkzoo/
+website: https://senecaparkzoo.org/

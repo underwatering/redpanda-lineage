@@ -1,0 +1,17 @@
+[panda]
+_id: 492
+birthday: 1998/6/27
+birthplace: 65
+children: none
+death: 2015/1/15
+en.name: Genghis
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: ジェンギス
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 482
+species: 2
+zoo: 93

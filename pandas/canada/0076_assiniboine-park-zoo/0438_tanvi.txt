@@ -1,0 +1,16 @@
+[panda]
+_id: 438
+birthday: 2017/6/13
+birthplace: 82
+children: none
+en.name: Tanvi
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: タンヴィ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 437
+species: 2
+zoo: 76

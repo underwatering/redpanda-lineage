@@ -1,0 +1,74 @@
+[panda]
+_id: 130
+birthday: 2012/7/28
+birthplace: 6
+children: none
+en.name: Ichigo
+en.nicknames: Strawberry-chan
+en.othernames: none
+gender: f
+jp.name: イチゴ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 69
+location.1: 6, 2012/7/28
+location.2: 12, 2015/12/17
+photo.1: https://www.instagram.com/p/Bg-MfDqhDCA/media/?size=m
+photo.1.author: minatomirai215
+photo.1.link: https://www.instagram.com/minatomirai215/
+photo.1.tags: keeper
+photo.2: https://www.instagram.com/p/Bi6Qy5RlXN2/media/?size=m
+photo.2.author: minatomirai215
+photo.2.link: https://www.instagram.com/minatomirai215/
+photo.2.tags: tongue, tree
+photo.3: https://www.instagram.com/p/BpKOiwGlewj/media/?size=m
+photo.3.author: minatomirai215
+photo.3.link: https://www.instagram.com/minatomirai215/
+photo.3.tags: apple time, paws, profile, standing
+photo.4: https://www.instagram.com/p/BqoAQ5Xl_yK/media/?size=m
+photo.4.author: minatomirai215
+photo.4.link: https://www.instagram.com/minatomirai215/
+photo.4.tags: apple time, standing
+photo.5: https://www.instagram.com/p/BrVEVGRlyxG/media/?size=m
+photo.5.author: framereim
+photo.5.link: https://www.instagram.com/framereim/
+photo.5.tags: tongue
+photo.6: https://www.instagram.com/p/BsK1EUUFkCR/media/?size=m
+photo.6.author: minatomirai215
+photo.6.link: https://www.instagram.com/minatomirai215/
+photo.6.tags: tail, tree, wet
+photo.7: https://www.instagram.com/p/Bs4eLNklHF-/media/?size=m
+photo.7.author: kipekaila
+photo.7.link: https://www.instagram.com/kipekaila/
+photo.7.tags: bamboo, tail
+photo.8: https://www.instagram.com/p/BuIMou0liPh/media/?size=m
+photo.8.author: tabechum
+photo.8.link: https://www.instagram.com/tabechum/
+photo.8.tags: paws, standing
+photo.9: https://www.instagram.com/p/BudH_5mFA0I/media/?size=m
+photo.9.author: tabechum
+photo.9.link: https://www.instagram.com/tabechum/
+photo.9.tags: apple time, standing
+photo.10: https://www.instagram.com/p/BwhHykkFCY9/media/?size=m
+photo.10.author: ck.chie
+photo.10.link: https://www.instagram.com/p/BwhHykkFCY9/media/?size=m
+photo.10.tags: keeper, paws
+photo.11: https://www.instagram.com/p/BxQ91sDF6NV/media/?size=m
+photo.11.author: minatomirai215
+photo.11.link: https://www.instagram.com/minatomirai215/
+photo.11.tags: laying down, tree
+photo.12: https://www.instagram.com/p/Bxqop35lxyO/media/?size=m
+photo.12.author: minatomirai215
+photo.12.link: https://www.instagram.com/minatomirai215/
+photo.12.tags: sleeping
+photo.13: https://www.instagram.com/p/Bx1iHz5FWFP/media/?size=m
+photo.13.author: pantasanzoo1
+photo.13.link: https://www.instagram.com/pantasanzoo1/
+photo.13.tags: bamboo, paws, standing
+photo.14: https://www.instagram.com/p/ByJXYOtBIlb/media/?size=m
+photo.14.author: tabechum
+photo.14.link: https://www.instagram.com/tabechum/
+photo.14.tags: keeper, paws
+species: 2
+zoo: 12

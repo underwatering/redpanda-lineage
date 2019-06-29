@@ -1,0 +1,22 @@
+[panda]
+_id: 403
+birthday: 2009/6/11
+birthplace: 83
+children: none
+en.name: Take
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: タケ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 399, 402
+location.1: 83, 2009/6/11
+location.2: 88, 2010/5/26
+photo.1: https://www.instagram.com/p/BkiurCRn2_H/media/?size=m
+photo.1.author: zentrandi
+photo.1.link: https://www.instagram.com/zentrandi/
+photo.1.tags: profile, tree
+species: 2
+zoo: 88

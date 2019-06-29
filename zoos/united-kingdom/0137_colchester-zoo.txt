@@ -1,0 +1,9 @@
+[zoo]
+_id: 137
+en.address: Maldon Rd, Colchester CO3 0SL, UK
+en.location: Colchester, UK
+en.name: Colchester Zoo
+flag: UK
+language.order: en
+map: https://goo.gl/maps/JWJySzYiXeu
+website: https://www.colchester-zoo.com/

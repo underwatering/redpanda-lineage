@@ -1,0 +1,48 @@
+[panda]
+_id: 68
+birthday: 2006/5/30
+birthplace: 30
+children: 140, 70, 301
+en.name: Ribbon
+en.nicknames: none
+en.othernames: Ribon
+gender: f
+jp.name: リボン
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+location.1: 30, 2006/5/30
+location.2: 6, 2011/6/17
+photo.1: https://www.instagram.com/p/Bit0xLTl8eH/media/?size=m
+photo.1.author: re_ichimaru
+photo.1.link: https://www.instagram.com/re_ichimaru/
+photo.1.tags: bamboo, smile, tongue
+photo.2: https://www.instagram.com/p/BnKzbXIlV2Y/media/?size=m
+photo.2.author: animal_love_us
+photo.2.link: https://www.instagram.com/animal_love_us/
+photo.2.tags: laying down
+photo.3: https://www.instagram.com/p/Bq91n0RFWbi/media/?size=m
+photo.3.author: perie1027vivi
+photo.3.link: https://www.instagram.com/perie1027vivi/
+photo.3.tags: laying down
+photo.4: https://www.instagram.com/p/BrNiVoqFLw0/media/?size=m
+photo.4.author: perie1027vivi
+photo.4.link: https://www.instagram.com/perie1027vivi/
+photo.4.tags: bamboo, smile
+photo.5: https://www.instagram.com/p/BsSiJX4FXQp/media/?size=m
+photo.5.author: fetorus_mami
+photo.5.link: https://www.instagram.com/fetorus_mami/
+photo.5.tags: apple time, paws
+photo.6: https://www.instagram.com/p/BtBT-mKFsuO/media/?size=m
+photo.6.author: craig_craig_craig
+photo.6.link: https://www.instagram.com/craig_craig_craig/
+photo.6.tags: bamboo, paws
+photo.7: https://www.instagram.com/p/BtPwLtglvKt/media/?size=m
+photo.7.author: fetorus_mami
+photo.7.link: https://www.instagram.com/fetorus_mami/
+photo.7.tags: bamboo, profile
+photo.8: https://www.instagram.com/p/Bxs8RoYFalY/media/?size=m
+photo.8.author: kipekaila
+photo.8.link: https://www.instagram.com/kipekaila/
+species: 2
+zoo: 6

@@ -1,0 +1,22 @@
+[panda]
+_id: 867
+birthday: 2017/6/14
+birthplace: 114
+children: none
+en.name: Jackie
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: ジャッキー
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: unknown
+location.1: 114, 2017/6/14
+location.2: 49, 2017/12/19
+photo.1: https://www.instagram.com/p/Byd3xFxpplw/media/?size=m
+photo.1.author: rossifari
+photo.1.link: https://www.instagram.com/rossifari/
+photo.1.tags: profile
+species: 1
+zoo: 49

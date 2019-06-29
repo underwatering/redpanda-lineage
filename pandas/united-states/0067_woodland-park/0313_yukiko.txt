@@ -1,0 +1,32 @@
+[panda]
+_id: 313
+birthday: 2005/6/23
+birthplace: 9
+children: 404, 406, 399, 402, 403, 461, 410, 324, 325
+en.name: Yukiko
+en.nicknames: none
+en.oldnames: Take
+en.othernames: none
+gender: m
+jp.name: ユキコ
+jp.nicknames: none
+jp.oldnames: タケ
+jp.othernames: none
+language.order: en, jp
+litter: 321
+location.1: 9, 2005/6/23
+location.2: 83, 2007/2/21
+location.3: 67, 2014/11/20
+photo.1: https://www.instagram.com/p/BkZSIjpFB9x/media/?size=m
+photo.1.author: carsontheredpanda
+photo.1.link: https://www.instagram.com/carsontheredpanda/
+photo.1.tags: profile
+photo.2: https://www.codaworry.com/images/rpf/yukiko-1-wpz.jpg
+photo.2.author: geroppa55
+photo.2.link: https://geroppa55.exblog.jp/i9/
+photo.3: https://www.instagram.com/p/BwZuEuSlqEN/media/?size=m
+photo.3.author: carsontheredpanda
+photo.3.link: https://www.instagram.com/carsontheredpanda/
+photo.3.tags: paws
+species: 2
+zoo: 67

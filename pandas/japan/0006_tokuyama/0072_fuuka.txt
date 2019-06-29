@@ -1,0 +1,38 @@
+[panda]
+_id: 72
+birthday: 2006/6/2
+birthplace: 8
+children: 377, 180, 144, 130, 69
+en.name: Fuuka
+en.nicknames: none
+en.othernames: Fuka, Fūka
+gender: f
+jp.name: 風花
+jp.nicknames: none
+jp.othernames: フウカ
+language.order: jp, en
+litter: 48
+location.1: 8, 2006/6/2
+location.2: 6, 2008/6/30
+location.3: 41, 2014/4/9
+location.4: 6, 2015/11/17
+photo.1: https://www.instagram.com/p/Bi_r9TilMax/media/?size=m
+photo.1.author: re_ichimaru
+photo.1.link: https://www.instagram.com/re_ichimaru/
+photo.2: https://www.instagram.com/p/BoKHRavllc5/media/?size=m
+photo.2.author: animal_love_us
+photo.2.link: https://www.instagram.com/animal_love_us/
+photo.2.tags: bear worm, sleeping
+photo.3: https://www.instagram.com/p/BpSAERXFii9/media/?size=m
+photo.3.author: makimaru18
+photo.3.link: https://www.instagram.com/makimaru18/
+photo.3.tags: profile
+photo.4: https://www.instagram.com/p/Bq_aO4GlJoD/media/?size=m
+photo.4.author: perie1027vivi
+photo.4.link: https://www.instagram.com/perie1027vivi/
+photo.5: https://www.instagram.com/p/Bxk-soyFyx8/media/?size=m
+photo.5.author: kipekaila
+photo.5.link: https://www.instagram.com/kipekaila/
+photo.5.tags: mofumofu
+species: 2
+zoo: 6

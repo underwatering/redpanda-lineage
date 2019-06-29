@@ -1,0 +1,24 @@
+[panda]
+_id: 499
+birthday: 2014/7/24
+birthplace: 48
+children: none
+en.name: Winnie
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ウィニー
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: none
+photo.1: https://www.instagram.com/p/BP8QqezlZtX/media/?size=m
+photo.1.author: bronxzoo
+photo.1.link: https://www.instagram.com/bronxzoo/
+photo.1.tags: snow, white face
+photo.2: https://www.instagram.com/p/BCQ5yg_r4ck/media/?size=m
+photo.2.author: bronxzoo
+photo.2.link: https://www.instagram.com/bronxzoo/
+photo.2.tags: bamboo, white face
+species: 1
+zoo: 48

@@ -1,0 +1,76 @@
+[panda]
+_id: 4
+birthday: 2005/6/25
+birthplace: 1
+children: 9, 266, 2, 6, 7
+en.name: Lychee
+en.nicknames: none
+en.othernames: Raichi
+gender: m
+jp.name: ライチ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 264
+photo.1: https://www.instagram.com/p/Bh_BPsPlaOu/media/?size=m
+photo.1.author: na.mo.pan
+photo.1.link: https://www.instagram.com/na.mo.pan/
+photo.1.tags: lips, portrait
+photo.2: https://www.instagram.com/p/BahlURkjXsd/media/?size=m
+photo.2.author: shun033
+photo.2.link: https://www.instagram.com/shun033/
+photo.2.tags: profile, sleeping
+photo.3: https://www.instagram.com/p/BlbqJpJFqcn/media/?size=m
+photo.3.author: _rifa_p
+photo.3.link: https://www.instagram.com/_rifa_p/
+photo.3.tags: sleeping
+photo.4: https://www.instagram.com/p/Bim0mOqFR-9/media/?size=m
+photo.4.author: na.mo.pan
+photo.4.link: https://www.instagram.com/na.mo.pan/
+photo.4.tags: smile, tongue
+photo.5: https://www.instagram.com/p/BcR7IFVATjm/media/?size=m
+photo.5.author: kinkinkin0826
+photo.5.link: https://www.instagram.com/kinkinkin0826/
+photo.5.tags: jizo
+photo.6: https://www.instagram.com/p/Bm2U3vJFD1X/media/?size=m
+photo.6.author: miis_98
+photo.6.link: https://www.instagram.com/miis_98/
+photo.6.tags: apple time, portrait
+photo.7: https://www.instagram.com/p/BCNT0kHwZxQ/media/?size=m
+photo.7.author: rio_minron
+photo.7.link: https://www.instagram.com/rio_minron/
+photo.7.tags: bamboo
+photo.8: https://www.instagram.com/p/Boq8CLiFy4N/media/?size=m
+photo.8.author: craig_craig_craig
+photo.8.link: https://www.instagram.com/craig_craig_craig/
+photo.8.tags: sleeping
+photo.9: https://www.instagram.com/p/Bqzaz2pFMj2/media/?size=m
+photo.9.author: kinkinkin0826
+photo.9.link: https://www.instagram.com/kinkinkin0826/
+photo.9.tags: portrait, wink
+photo.10: https://www.instagram.com/p/BsdfuwWluX7/media/?size=m
+photo.10.author: wumpwoast
+photo.10.link: https://www.instagram.com/wumpwoast/
+photo.10.tags: apple time, tongue
+photo.11: https://www.instagram.com/p/Bs0T5xlF59S/media/?size=m
+photo.11.author: panda.daisuki
+photo.11.link: https://www.instagram.com/panda.daisuki/
+photo.11.tags: portrait
+photo.12: https://www.instagram.com/p/BtD2KDel25l/media/?size=m
+photo.12.author: masa_polarbear
+photo.12.link: https://www.instagram.com/masa_polarbear/
+photo.12.tags: apple time, keeper
+photo.13: https://www.instagram.com/p/BtgE46yFFVa/media/?size=m
+photo.13.author: ifumoto88
+photo.13.link: https://www.instagram.com/ifumoto88/
+photo.13.tags: lunch time, portrait, smile
+photo.14: https://www.instagram.com/p/Bx8Z8FBh3IK/media/?size=m
+photo.14.author: sasapan34
+photo.14.link: https://www.instagram.com/sasapan34/
+photo.14.tags: lips, smile, tongue
+photo.15: https://www.instagram.com/p/BVuksK_AJ1H/media/?size=m
+photo.15.author: panda.daisuki
+photo.15.link: https://www.instagram.com/panda.daisuki/
+photo.15.tags: patrol
+species: 2
+zoo: 1

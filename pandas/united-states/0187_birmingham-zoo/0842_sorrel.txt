@@ -1,0 +1,22 @@
+[panda]
+_id: 842
+birthday: 2010/6/12
+birthplace: 105
+children: unknown
+en.name: Sorrel
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: 栗色
+jp.nicknames: none
+jp.othernames: くりいろ
+language.order: en, jp
+litter: 841
+location.1: 105, 2010/6/12
+location.2: 187, 2011/4/28
+photo.1: https://www.instagram.com/p/BynhKwOgklK/media/?size=m
+photo.1.author: itskellinotkelly
+photo.1.link: https://www.instagram.com/itskellinotkelly/
+photo.1.tags: lunch time
+species: 1
+zoo: 187

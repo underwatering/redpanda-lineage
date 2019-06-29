@@ -1,0 +1,31 @@
+[panda]
+_id: 346
+birthday: 2012/6/18
+birthplace: 10
+children: 437, 438, 436
+en.name: Sachi
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: サチ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 215
+location.1: 10, 2012/6/18
+location.2: 17, 2013/12/16
+location.3: 76, 2014/7/15
+photo.1: https://www.instagram.com/p/BY_RNhhnNOI/media/?size=m
+photo.1.author: assiniboineparkzoo
+photo.1.link: https://www.instagram.com/assiniboineparkzoo/
+photo.1.tags: laying down, profile, tree
+photo.2: https://www.instagram.com/p/BVuJ_3PlDE3/media/?size=m
+photo.2.author: rdpnzoo
+photo.2.link: https://www.instagram.com/rdpnzoo/
+photo.2.tags: apple time
+photo.3: https://www.instagram.com/p/BnmKSEhHTsC/media/?size=m
+photo.3.author: ryanmcgibbon
+photo.3.link: https://www.instagram.com/ryanmcgibbon/
+photo.3.tags: lunch time
+species: 2
+zoo: 76

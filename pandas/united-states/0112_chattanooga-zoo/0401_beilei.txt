@@ -1,0 +1,42 @@
+[panda]
+_id: 401
+birthday: 2010/6/14
+birthplace: 76
+children: 394, 493, 469, 470
+en.name: Beilei
+en.nicknames: none
+en.oldnames: Roby
+en.othernames: none
+gender: f
+jp.name: バイリー
+jp.nicknames: none
+jp.oldnames: ロビー
+jp.othernames: none
+language.order: en, jp
+litter: 895
+location.1: 76, 2010/6/14
+location.2: 43, 2011/6/21
+location.3: 84, 2011/7/25
+location.4: 65, 2016/5/26
+location.5: 112, 2019/1/1
+photo.1: https://www.instagram.com/p/BEgYkUXFXA6/media/?size=m
+photo.1.author: prospectparkzoo
+photo.1.link: https://www.instagram.com/prospectparkzoo/
+photo.1.tags: profile
+photo.2: https://www.instagram.com/p/BCf92hSFXEJ/media/?size=m
+photo.2.author: prospectparkzoo
+photo.2.link: https://www.instagram.com/prospectparkzoo/
+photo.2.tags: bamboo
+photo.3: https://www.instagram.com/p/7YCs5blXPN/media/?size=m
+photo.3.author: prospectparkzoo
+photo.3.link: https://www.instagram.com/prospectparkzoo/
+photo.3.tags: bamboo, tongue
+photo.4: https://www.instagram.com/p/BEObmPctG3V/media/?size=m
+photo.4.author: mariten1119
+photo.4.link: https://www.instagram.com/mariten1119/
+photo.4.tags: laying down
+photo.5: https://www.instagram.com/p/BucY2_FHyec/media/?size=m
+photo.5.author: chattanoogazoo
+photo.5.link: https://www.instagram.com/chattanoogazoo/
+species: 2
+zoo: 112

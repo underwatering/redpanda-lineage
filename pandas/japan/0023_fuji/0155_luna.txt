@@ -1,0 +1,35 @@
+[panda]
+_id: 155
+birthday: 2006/7/10
+birthplace: 73
+children: none
+en.name: Luna
+en.nicknames: none
+en.othernames: Runa
+gender: f
+jp.name: ルナ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: none
+location.1: 73, 2006/7/10
+location.2: 36, 2009/3/26
+location.3: 15, 2014/1/30
+location.4: 23, 2017/7/4
+photo.1: https://www.instagram.com/p/BgM3orFFfEa/media/?size=m
+photo.1.author: _rifa_p
+photo.1.link: https://www.instagram.com/_rifa_p/
+photo.1.tags: itchy
+photo.2: https://www.instagram.com/p/BYLLC5clC5t/media/?size=m
+photo.2.author: hanamaru_redpanda
+photo.2.link: https://www.instagram.com/hanamaru_redpanda/
+photo.3: https://www.instagram.com/p/Br1BTyJF5kq/media/?size=m
+photo.3.author: miis_98
+photo.3.link: https://www.instagram.com/miis_98/
+photo.3.tags: apple time, dish, keeper, profile
+photo.4: https://www.instagram.com/p/BsBvI-WF4Y_/media/?size=m
+photo.4.author: kipekaila
+photo.4.link: https://www.instagram.com/kipekaila/
+photo.4.tags: bamboo
+species: 2
+zoo: 23

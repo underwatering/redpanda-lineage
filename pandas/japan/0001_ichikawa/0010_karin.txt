@@ -1,0 +1,61 @@
+[panda]
+_id: 10
+birthday: 2012/6/9
+birthplace: 4
+children: 1
+en.name: Karin
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: カリン
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: none
+location.1: 4, 2012/6/9
+location.2: 1, 2014/5/12
+photo.1: https://www.instagram.com/p/Bg3zaeLg5Ba/media/?size=m
+photo.1.author: perie1027vivi
+photo.1.link: https://www.instagram.com/perie1027vivi/
+photo.2: https://www.instagram.com/p/BgwyRirg5bW/media/?size=m
+photo.2.author: firefoxpanda88
+photo.2.link: https://www.instagram.com/firefoxpanda88/
+photo.2.tags: profile, tongue, yawn
+photo.3: https://www.instagram.com/p/BlU-0-jlwx3/media/?size=m
+photo.3.author: hanamaru_redpanda
+photo.3.link: https://www.instagram.com/hanamaru_redpanda/
+photo.3.tags: laying down
+photo.4: https://www.instagram.com/p/BgNlGUKFtXH/media/?size=m
+photo.4.author: na.mo.pan
+photo.4.link: https://www.instagram.com/na.mo.pan/
+photo.4.tags: tail
+photo.5: https://www.instagram.com/p/Bj_7qjJBzor/media/?size=m
+photo.5.author: sulfa2
+photo.5.link: https://www.instagram.com/sulfa2/
+photo.5.tags: tongue
+photo.6: https://www.instagram.com/p/BqHhz7qFArx/media/?size=m
+photo.6.author: perie1027vivi
+photo.6.link: https://www.instagram.com/perie1027vivi/
+photo.6.tags: bamboo
+photo.7: https://www.instagram.com/p/Bq8epGclTrF/media/?size=m
+photo.7.author: cabbage_biyori
+photo.7.link: https://www.instagram.com/cabbage_biyori/
+photo.7.tags: lips
+photo.8: https://www.instagram.com/p/BY-hQusFcts/media/?size=m
+photo.8.author: hanamaru_redpanda
+photo.8.link: https://www.instagram.com/hanamaru_redpanda/
+photo.8.tags: bamboo
+photo.9: https://www.instagram.com/p/BsSVdpRlMXM/media/?size=m
+photo.9.author: craig_craig_craig
+photo.9.link: https://www.instagram.com/craig_craig_craig/
+photo.9.tags: itchy
+photo.10: https://www.instagram.com/p/Bxv7eA2hbZz/media/?size=m
+photo.10.author: na.mo.pan
+photo.10.link: https://www.instagram.com/p/Bxv7eA2hbZz/media/?size=m
+photo.10.tags: paws, tongue
+photo.11: https://www.instagram.com/p/BjxOzp3hKaL/media/?size=m
+photo.11.author: sulfa2
+photo.11.link: https://www.instagram.com/sulfa2/
+photo.11.tags: blink, laying down
+species: 2
+zoo: 1

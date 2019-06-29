@@ -1,0 +1,52 @@
+[panda]
+_id: 124
+birthday: 2011/7/17
+birthplace: 13
+children: 149, 225, 226, 233, 234, 235, 236
+en.name: Charmin
+en.nicknames: none
+en.othernames: Cha-Min, Cha-min
+gender: m
+jp.name: チャーミン
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: none
+location.1: 13, 2011/7/17
+location.2: 37, 2014/2/3
+photo.1: https://www.instagram.com/p/BgbGDOEFH93/media/?size=m
+photo.1.author: mifko55
+photo.1.link: https://www.instagram.com/mifko55/
+photo.1.tags: profile, snow
+photo.2: https://www.instagram.com/p/Bl0KFWwFAeL/media/?size=m
+photo.2.author: leonard_redmof
+photo.2.link: https://www.instagram.com/leonard_redmof/
+photo.2.tags: bamboo
+photo.3: https://www.instagram.com/p/BoRAgQ8F6by/media/?size=m
+photo.3.author: miis_98
+photo.3.link: https://www.instagram.com/miis_98/
+photo.4: https://www.instagram.com/p/Bqeqxz5F_rD/media/?size=m
+photo.4.author: fetorus_mami
+photo.4.link: https://www.instagram.com/fetorus_mami/
+photo.4.tags: snow
+photo.5: https://www.instagram.com/p/BqyH7TnlsC2/media/?size=m
+photo.5.author: fetorus_mami
+photo.5.link: https://www.instagram.com/fetorus_mami/
+photo.5.tags: laying down, paws, upside-down
+photo.6: https://www.instagram.com/p/BrICINylwN2/media/?size=m
+photo.6.author: fetorus_mami
+photo.6.link: https://www.instagram.com/fetorus_mami/
+photo.6.tags: bamboo
+photo.7: https://www.instagram.com/p/Bb9GLedFJIS/media/?size=m
+photo.7.author: hanamaru_redpanda
+photo.7.link: https://www.instagram.com/hanamaru_redpanda/
+photo.7.tags: bamboo, snow
+photo.8: https://www.instagram.com/p/BtlOAGiln4b/media/?size=m
+photo.8.author: asahiyamazoo1
+photo.8.link: https://www.instagram.com/asahiyamazoo1/
+photo.8.tags: snow, standing
+species: 2
+video.1: https://youtu.be/T0UIB96RKQI
+video.1.author: harry
+video.1.link: https://www.youtube.com/channel/UCBEK8vgdksglberN7QwjQ4A
+zoo: 37

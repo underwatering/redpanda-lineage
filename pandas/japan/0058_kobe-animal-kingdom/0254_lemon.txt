@@ -1,0 +1,133 @@
+[panda]
+_id: 254
+birthday: 2014/7/13
+birthplace: 19
+children: none
+en.name: Lemon
+en.nicknames: none
+en.othernames: Remon
+gender: m
+jp.name: レモン
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 41
+location.1: 19, 2014/7/13
+location.2: 58, 2018/12/1
+photo.1: https://www.instagram.com/p/BkSjT3Bg9ZL/media/?size=m
+photo.1.author: sbskyy
+photo.1.link: https://www.instagram.com/sbskyy/
+photo.1.tags: tail
+photo.2: https://www.instagram.com/p/BlU9IeHleEB/media/?size=m
+photo.2.author: re_ichimaru
+photo.2.link: https://www.instagram.com/re_ichimaru/
+photo.2.tags: portrait, profile, smile, tongue
+photo.3: https://www.instagram.com/p/BlK0p7fFbAW/media/?size=m
+photo.3.author: leonard_redmof
+photo.3.link: https://www.instagram.com/leonard_redmof/
+photo.3.tags: lunch time, keeper, portrait
+photo.4: https://www.instagram.com/p/BloasYCFE0F/media/?size=m
+photo.4.author: re_ichimaru
+photo.4.link: https://www.instagram.com/re_ichimaru/
+photo.4.tags: portrait, slobber
+photo.5: https://www.instagram.com/p/BlvBXaYFy6D/media/?size=m
+photo.5.author: leonard_redmof
+photo.5.link: https://www.instagram.com/leonard_redmof/
+photo.6: https://www.instagram.com/p/BoMElkKl0Zm/media/?size=m
+photo.6.author: xmarurux
+photo.6.link: https://www.instagram.com/xmarurux/
+photo.6.tags: standing
+photo.7: https://www.instagram.com/p/Bluugs4FvId/media/?size=m
+photo.7.author: re_ichimaru
+photo.7.link: https://www.instagram.com/re_ichimaru/
+photo.7.tags: apple time, keeper, portrait, smile, tongue
+photo.8: https://www.instagram.com/p/BcW8GPrFDX9/media/?size=m
+photo.8.author: hanamaru_redpanda
+photo.8.link: https://www.instagram.com/hanamaru_redpanda/
+photo.8.tags: portrait, tongue
+photo.9: https://www.instagram.com/p/BrrDtO-FGBq/media/?size=m
+photo.9.author: makimaru18
+photo.9.link: https://www.instagram.com/makimaru18/
+photo.9.tags: portrait, smile, tongue
+photo.10: https://www.instagram.com/p/BrubUa8l5Og/media/?size=m
+photo.10.author: colette.jp
+photo.10.link: https://www.instagram.com/colette.jp/
+photo.10.tags: smile, tongue
+photo.11: https://www.instagram.com/p/Brznc6dFvec/media/?size=m
+photo.11.author: nekonekokoneko147
+photo.11.link: https://www.instagram.com/nekonekokoneko147/
+photo.11.tags: tail
+photo.12: https://www.instagram.com/p/Bs5RXZ9lDCt/media/?size=m
+photo.12.author: mofu_pan
+photo.12.link: https://www.instagram.com/mofu_pan/
+photo.12.tags: lips, portrait
+photo.13: https://www.instagram.com/p/Bs-x1vMlxXS/media/?size=m
+photo.13.author: mofu_pan
+photo.13.link: https://www.instagram.com/mofu_pan/
+photo.13.tags: paws, standing
+photo.14: https://www.instagram.com/p/Btp5yaUlY6P/media/?size=m
+photo.14.author: joy93.87
+photo.14.link: https://www.instagram.com/joy93.87/
+photo.14.tags: portrait, smile
+photo.15: https://www.instagram.com/p/BtaxhPUgepq/media/?size=m
+photo.15.author: animal0720
+photo.15.link: https://www.instagram.com/animal0720/
+photo.15.tags: paws, portrait
+photo.16: https://www.instagram.com/p/Butiat1FykW/media/?size=m
+photo.16.author: mofu_pan
+photo.16.link: https://www.instagram.com/mofu_pan/
+photo.16.tags: paws, portrait, smile
+photo.17: https://www.instagram.com/p/BvxRCivglu5/media/?size=m
+photo.17.author: s24.roxas_nable
+photo.17.link: https://www.instagram.com/s24.roxas_nable/
+photo.17.tags: smile
+photo.18: https://www.instagram.com/p/Bw8JUZ2lHMl/media/?size=m
+photo.18.author: riri_panda616
+photo.18.link: https://www.instagram.com/riri_panda616/
+photo.18.tags: bamboo, paws, portrait, tree
+photo.19: https://www.instagram.com/p/BvNLn4AA4i8/media/?size=m
+photo.19.author: s24.star_load
+photo.19.link: https://www.instagram.com/s24.star_load/
+photo.19.tags: tongue
+photo.20: https://www.instagram.com/p/BvVByr4gaHh/media/?size=m
+photo.20.author: s24.star_load
+photo.20.link: https://www.instagram.com/s24.star_load/
+photo.20.tags: portrait, smile, tongue
+photo.21: https://www.instagram.com/p/Bw6hBjhhnky/media/?size=m
+photo.21.author: s24.star_load
+photo.21.link: https://www.instagram.com/s24.star_load/
+photo.21.tags: apple time, keeper
+photo.22: https://www.instagram.com/p/BxCWC8xh6kl/media/?size=m
+photo.22.author: s24.star_load
+photo.22.link: https://www.instagram.com/s24.star_load/
+photo.22.tags: tongue
+photo.23: https://www.instagram.com/p/BxyAjJmlfHD/media/?size=m
+photo.23.author: s24.star_load
+photo.23.link: https://www.instagram.com/s24.star_load/
+photo.23.tags: laying down, tail, tongue
+photo.24: https://www.instagram.com/p/ByxKoLphLWY/media/?size=m
+photo.24.author: sasapan34
+photo.24.link: https://www.instagram.com/sasapan34/
+photo.24.tags: smile
+photo.25: https://www.instagram.com/p/ByyZJJOBNEn/media/?size=m
+photo.25.author: s24.star_load
+photo.25.link: https://www.instagram.com/s24.star_load/
+photo.25.tags: smile
+photo.26: https://www.instagram.com/p/By7uOuBBZis/media/?size=m
+photo.26.author: akiakiakiko18
+photo.26.link: https://www.instagram.com/akiakiakiko18/
+photo.26.tags: laying down, paws, portrait
+photo.27: https://www.instagram.com/p/Bt_CYzcF2vI/media/?size=m
+photo.27.author: peach_redpanda
+photo.27.link: https://www.instagram.com/peach_redpanda/
+photo.27.tags: bridge, portrait, smile, tail
+photo.28: https://www.instagram.com/p/BuNTw0Vlh7x/media/?size=m
+photo.28.author: panda.daisuki
+photo.28.link: https://www.instagram.com/panda.daisuki/
+photo.28.tags: bamboo, face
+photo.29: https://www.instagram.com/p/BzIvV6PBMVY/media/?size=m
+photo.29.author: mofu_pan
+photo.29.link: https://www.instagram.com/mofu_pan/
+photo.29.tags: portrait, smile, tongue
+species: 2
+zoo: 58

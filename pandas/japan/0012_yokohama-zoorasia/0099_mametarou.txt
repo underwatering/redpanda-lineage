@@ -1,0 +1,121 @@
+[panda]
+_id: 99
+birthday: 2016/6/24
+birthplace: 17
+children: none
+en.name: Mametarou
+en.nicknames: Scramble!, Mame-chan, Mamechan
+en.othernames: Mametaro
+gender: m
+jp.name: まめたろう
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 100
+location.1: 17, 2016/6/24
+location.2: 12, 2018/2/20
+photo.1: https://www.instagram.com/p/BlcM9Y1FdL7/media/?size=m
+photo.1.author: kotata_513
+photo.1.link: https://www.instagram.com/kotata_513/
+photo.1.tags: yawn
+photo.2: https://www.instagram.com/p/BkhyLCOFW1E/media/?size=m
+photo.2.author: kotata_513
+photo.2.link: https://www.instagram.com/kotata_513/
+photo.2.tags: profile
+photo.3: https://www.instagram.com/p/BeyvlZsn9gI/media/?size=m
+photo.3.author: kotata_513
+photo.3.link: https://www.instagram.com/kotata_513/
+photo.3.tags: portrait, smile
+photo.4: https://www.instagram.com/p/BfPyGUmnp08/media/?size=m
+photo.4.author: kotata_513
+photo.4.link: https://www.instagram.com/kotata_513/
+photo.4.tags: portrait
+photo.5: https://www.instagram.com/p/BjEaznZl6in/media/?size=m
+photo.5.author: kotata_513
+photo.5.link: https://www.instagram.com/kotata_513/
+photo.5.tags: bamboo, portrait
+photo.6: https://www.instagram.com/p/Bn44h_nl9EU/media/?size=m
+photo.6.author: minatomirai215
+photo.6.link: https://www.instagram.com/minatomirai215/
+photo.6.tags: home, laying down, portrait
+photo.7: https://www.instagram.com/p/Bn8LbECFUfA/media/?size=m
+photo.7.author: run.swim.shingo
+photo.7.link: https://www.instagram.com/run.swim.shingo/
+photo.7.tags: wet
+photo.8: https://www.instagram.com/p/BnwswThlLxS/media/?size=m
+photo.8.author: run.swim.shingo
+photo.8.link: https://www.instagram.com/run.swim.shingo/
+photo.8.tags: portrait, wet
+photo.9: https://www.instagram.com/p/Bo-MVR_lqPB/media/?size=m
+photo.9.author: kotata_513
+photo.9.link: https://www.instagram.com/kotata_513/
+photo.9.tags: portrait, smile
+photo.10: https://www.instagram.com/p/BqHMxx8AfiG/media/?size=m
+photo.10.author: xmarurux
+photo.10.link: https://www.instagram.com/xmarurux/
+photo.10.tags: door, portrait, window
+photo.11: https://www.instagram.com/p/BrSVEREFl6G/media/?size=m
+photo.11.author: framereim
+photo.11.link: https://www.instagram.com/framereim/
+photo.11.tags: tree
+photo.12: https://www.instagram.com/p/Brye6J1lJjI/media/?size=m
+photo.12.author: rie_panda55
+photo.12.link: https://www.instagram.com/rie_panda55/
+photo.13: https://www.instagram.com/p/BrzIzD_Flyt/media/?size=m
+photo.13.author: kotata_513
+photo.13.link: https://www.instagram.com/kotata_513/
+photo.13.tags: itchy, portrait, tail
+photo.14: https://www.instagram.com/p/BuAercPFOoC/media/?size=m
+photo.14.author: tabechum
+photo.14.link: https://www.instagram.com/tabechum/
+photo.14.tags: portrait, tongue
+photo.15: https://www.instagram.com/p/BpuQHJFgyUP/media/?size=m
+photo.15.author: happy_love2.15
+photo.15.link: https://www.instagram.com/happy_love2.15/
+photo.15.tags: flowers, paws, portrait, smile
+photo.16: https://www.instagram.com/p/BwGJeJNlm7H/media/?size=m
+photo.16.author: kotata_513
+photo.16.link: https://www.instagram.com/kotata_513/
+photo.16.tags: portrait, smile
+photo.17: https://www.instagram.com/p/BwqbbqdlxMe/media/?size=m
+photo.17.author: tabechum
+photo.17.link: https://www.instagram.com/tabechum/
+photo.17.tags: smile, tail
+photo.18: https://www.instagram.com/p/BwvlELGltIX/media/?size=m
+photo.18.author: pantasanzoo1
+photo.18.link: https://www.instagram.com/pantasanzoo1/
+photo.18.tags: apple time
+photo.19: https://www.instagram.com/p/Bx7J9joBuTM/media/?size=m
+photo.19.author: pantasanzoo1
+photo.19.link: https://www.instagram.com/pantasanzoo1/
+photo.19.tags: bamboo
+photo.20: https://www.instagram.com/p/Bx5-om1h4vT/media/?size=m
+photo.20.author: pantasanzoo1
+photo.20.link: https://www.instagram.com/pantasanzoo1/
+photo.20.tags: apple time
+photo.21: https://www.instagram.com/p/ByfXRtZhfqO/media/?size=m
+photo.21.author: minatomirai215
+photo.21.link: https://www.instagram.com/minatomirai215/
+photo.21.tags: home, portrait, smile
+photo.22: https://www.instagram.com/p/ByxHND7hbpK/media/?size=m
+photo.22.author: ck.chie
+photo.22.link: https://www.instagram.com/ck.chie/
+photo.22.tags: laying down, tongue, tree
+photo.23: https://www.instagram.com/p/ByzLm_DB6UC/media/?size=m
+photo.23.author: kotata_513
+photo.23.link: https://www.instagram.com/kotata_513/
+photo.23.tags: paws, standing, surprise
+photo.24: https://www.instagram.com/p/By92_9mBKKa/media/?size=m
+photo.24.author: ck.chie
+photo.24.link: https://www.instagram.com/ck.chie/
+photo.24.tags: apple time, standing
+photo.25: https://www.instagram.com/p/BzAOJL4hkGg/media/?size=m
+photo.25.author: kotata_513
+photo.25.link: https://www.instagram.com/kotata_513/
+photo.25.tags: smile
+photo.26: https://www.instagram.com/p/BzFvN91hHN3/media/?size=m
+photo.26.author: pantasanzoo1
+photo.26.link: https://www.instagram.com/pantasanzoo1/
+photo.26.tags: apple time
+species: 2
+zoo: 12

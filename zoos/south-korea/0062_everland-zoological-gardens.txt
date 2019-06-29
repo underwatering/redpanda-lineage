@@ -1,0 +1,16 @@
+[zoo]
+_id: 62
+en.address: 199 Everland-ro, Pogog-eup, Cheoin-gu, Yongin-si, Gyeonggi-do, South Korea
+en.location: Yongin City, Gyeonggi Province, South Korea
+en.name: Everland Zoological Gardens
+en.othernames: Jayeon Nongwon, Farmland
+flag: South Korea
+kr.address: 경기도 용인시 처인구 포곡읍 에버랜드로 199
+kr.location: 용인시 경기도
+kr.name: 에버랜드
+language.order: kr, en
+map: https://goo.gl/maps/e4tvYMRSY7z
+photo.1: https://www.instagram.com/p/BrDKTTJnd3J/media/?size=m
+photo.1.author: ritchzzzz
+photo.1.link: https://www.instagram.com/ritchzzzz/
+website: http://www.everland.com/

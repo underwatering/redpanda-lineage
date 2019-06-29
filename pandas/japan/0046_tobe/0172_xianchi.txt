@@ -1,0 +1,117 @@
+[panda]
+_id: 172
+birthday: 2007/6/26
+birthplace: 34
+children: 175, 174, 173
+en.name: Xianchi
+en.nicknames: none
+en.othernames: Shanzhi
+gender: m
+jp.name: シャンチー
+jp.nicknames: none
+jp.othernames: 山鳩
+language.order: jp, en
+litter: 207
+location.1: 34, 2007/6/26
+location.2: 46, 2010/12/1
+photo.1: https://www.instagram.com/p/BjuNJi7FpyV/media/?size=m
+photo.1.author: makimaru18
+photo.1.link: https://www.instagram.com/makimaru18/
+photo.1.tags: portrait
+photo.2: https://www.instagram.com/p/BkfI0LlFhDM/media/?size=m
+photo.2.author: craig_craig_craig
+photo.2.link: https://www.instagram.com/craig_craig_craig/
+photo.2.tags: tree
+photo.3: https://www.instagram.com/p/Bn0SaCwFUUp/media/?size=m
+photo.3.author: kipekaila
+photo.3.link: https://www.instagram.com/kipekaila/
+photo.3.tags: profile
+photo.4: https://www.instagram.com/p/BoFXr3QF1h2/media/?size=m
+photo.4.author: kipekaila
+photo.4.link: https://www.instagram.com/kipekaila/
+photo.4.tags: portrait, sleeping
+photo.5: https://www.instagram.com/p/BqM0n_Ul_0l/media/?size=m
+photo.5.author: itsuak
+photo.5.link: https://www.instagram.com/itsuak/
+photo.5.tags: smile
+photo.6: https://www.instagram.com/p/Br0QMlLlTdR/media/?size=m
+photo.6.author: itsuak
+photo.6.link: https://www.instagram.com/itsuak/
+photo.6.tags: bamboo, portrait
+photo.7: https://www.instagram.com/p/BsVi4pIl0qn/media/?size=m
+photo.7.author: lespan33
+photo.7.link: https://www.instagram.com/lespan33/
+photo.8: https://www.instagram.com/p/BsTtYo2FcOu/media/?size=m
+photo.8.author: redpanda_nippon_takashi
+photo.8.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.8.tags: wink
+photo.9: https://www.instagram.com/p/Bs1UXHyFLUH/media/?size=m
+photo.9.author: re_ichimaru
+photo.9.link: https://www.instagram.com/re_ichimaru/
+photo.9.tags: apple time, keeper, smile
+photo.10: https://www.instagram.com/p/Bs1T830lqSk/media/?size=m
+photo.10.author: re_ichimaru
+photo.10.link: https://www.instagram.com/re_ichimaru/
+photo.10.tags: bamboo
+photo.11: https://www.instagram.com/p/BtQ8TqQlhOk/media/?size=m
+photo.11.author: itsuak
+photo.11.link: https://www.instagram.com/itsuak/
+photo.11.tags: portrait, tongue
+photo.12: https://www.instagram.com/p/BuGpxj5lr2w/media/?size=m
+photo.12.author: itsuak
+photo.12.link: https://www.instagram.com/itsuak/
+photo.12.tags: portrait, smile, tree
+photo.13: https://www.instagram.com/p/BvO7TdAF7Q4/media/?size=m
+photo.13.author: itsuak
+photo.13.link: https://www.instagram.com/itsuak/
+photo.13.tags: air tasting, tongue, tree
+photo.14: https://www.instagram.com/p/Bwi0MI4FZwW/media/?size=m
+photo.14.author: totolove0724
+photo.14.link: https://www.instagram.com/totolove0724/
+photo.14.tags: bamboo, lips, portrait
+photo.15: https://www.instagram.com/p/Bwqd-POFvzy/media/?size=m
+photo.15.author: totolove0724
+photo.15.link: https://www.instagram.com/totolove0724/
+photo.15.tags: apple time, dish, portrait
+photo.16: https://www.instagram.com/p/BxJik0CFCv3/media/?size=m
+photo.16.author: totolove0724
+photo.16.link: https://www.instagram.com/totolove0724/
+photo.16.tags: bridge, peek, portrait
+photo.17: https://www.instagram.com/p/BxXkxxdl25v/media/?size=m
+photo.17.author: itsuak
+photo.17.link: https://www.instagram.com/itsuak/
+photo.17.tags: bridge, laying down, paws, white face
+photo.18: https://www.instagram.com/p/BxY3NxwFI4s/media/?size=m
+photo.18.author: totolove0724
+photo.18.link: https://www.instagram.com/totolove0724/
+photo.18.tags: bamboo, flowers, portrait
+photo.19: https://www.instagram.com/p/BxeD58uFBEg/media/?size=m
+photo.19.author: totolove0724
+photo.19.link: https://www.instagram.com/totolove0724/
+photo.19.tags: paws, portrait, smile, tree
+photo.20: https://www.instagram.com/p/BxubnIUFfwS/media/?size=m
+photo.20.author: itsuak
+photo.20.link: https://www.instagram.com/itsuak/
+photo.20.tags: portrait, smile
+photo.21: https://www.instagram.com/p/Byh0TA9hB2u/media/?size=m
+photo.21.author: itsuak
+photo.21.link: https://www.instagram.com/itsuak/
+photo.21.tags: carry, tree
+photo.22: https://www.instagram.com/p/BypsL36BF6d/media/?size=m
+photo.22.author: itsuak
+photo.22.link: https://www.instagram.com/itsuak/
+photo.22.tags: ear
+photo.23: https://www.instagram.com/p/BzDwutXBUNU/media/?size=m
+photo.23.author: itsuak
+photo.23.link: https://www.instagram.com/itsuak/
+photo.23.tags: portrait
+photo.24: https://www.instagram.com/p/BzQPg5JBcg1/media/?size=m
+photo.24.author: itsuak
+photo.24.link: https://www.instagram.com/itsuak/
+photo.24.tags: portrait, smile
+photo.25: https://www.instagram.com/p/BzKIXnyBIcm/media/?size=m
+photo.25.author: totolove0724
+photo.25.link: https://www.instagram.com/totolove0724/
+photo.25.tags: bamboo, flowers, portrait, shoots
+species: 2
+zoo: 46

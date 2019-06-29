@@ -1,0 +1,37 @@
+[panda]
+_id: 412
+birthday: 2014/7/3
+birthplace: 90
+children: none
+en.name: Phayara
+en.nicknames: none
+en.othernames: Faye
+gender: f
+jp.name: ファヤラ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: none
+location.1: 90, 2014/7/3
+location.2: 83, 2015/4/16
+photo.1: https://www.instagram.com/p/5ZhlmHSkF8/media/?size=m
+photo.1.author: worldthathesees
+photo.1.link: https://www.instagram.com/worldthathesees/
+photo.1.tags: bamboo, profile, smile, tongue
+photo.2: https://www.instagram.com/p/Bt9BZdIgtFu/media/?size=m
+photo.2.author: sketchpoet
+photo.2.link: https://www.instagram.com/sketchpoet/
+photo.2.tags: paws
+photo.3: https://www.instagram.com/p/BBjYzgTyf5M/media/?size=m
+photo.3.author: sketchpoet
+photo.3.link: https://www.instagram.com/sketchpoet/
+photo.3.tags: tongue
+photo.4: https://www.instagram.com/p/BBhAOrpSf5W/media/?size=m
+photo.4.author: sketchpoet
+photo.4.link: https://www.instagram.com/sketchpoet/
+photo.4.tags: paws
+photo.5: https://www.instagram.com/p/BwaAEZWFXa6/media/?size=m
+photo.5.author: worldthathesees
+photo.5.link: https://www.instagram.com/worldthathesees/
+species: 2
+zoo: 83

@@ -1,0 +1,15 @@
+[zoo]
+_id: 10
+en.address: 570-1 Shinonoiutabi, Nagano, Nagano Prefecture 388-8016, Japan
+en.location: Nagano, Nagano Prefecture
+en.name: Nagano Chausuyama Zoo
+flag: Japan
+jp.address: 〒388-8016 長野県長野市篠ノ井有旅５７０−1
+jp.location: 長野市 長野県
+jp.name: 茶臼山動物園
+language.order: jp, en
+map: https://goo.gl/maps/3sQ2w9qjTdS2
+photo.1: https://www.instagram.com/p/BhB8O-bFLOl/media/?size=m
+photo.1.author: hapirac_mk
+photo.1.link: https://www.instagram.com/hapirac_mk/
+website: http://www.chausuyama.com/

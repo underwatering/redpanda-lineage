@@ -1,0 +1,16 @@
+[panda]
+_id: 458
+birthday: 2016/6/21
+birthplace: 51
+children: none
+en.name: Chiyo
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: 千代
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 459
+species: 2
+zoo: 44

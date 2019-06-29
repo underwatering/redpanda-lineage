@@ -1,0 +1,157 @@
+[panda]
+_id: 12
+birthday: 2008/6/16
+birthplace: 1
+children: none
+en.name: Sora
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ソラ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 281
+photo.1: https://www.instagram.com/p/BiajyO_lXEZ/media/?size=m
+photo.1.author: panda.daisuki
+photo.1.link: https://www.instagram.com/panda.daisuki/
+photo.1.tags: apple time, flowers, portrait, profile
+photo.2: https://www.instagram.com/p/Be6seETF7ZG/media/?size=m
+photo.2.author: na.mo.pan
+photo.2.link: https://www.instagram.com/na.mo.pan/
+photo.2.tags: snow
+photo.3: https://www.instagram.com/p/BlUw41RlBgK/media/?size=m
+photo.3.author: run.swim.shingo
+photo.3.link: https://www.instagram.com/run.swim.shingo/
+photo.3.tags: tongue
+photo.4: https://www.instagram.com/p/BkF6ZPCFxmB/media/?size=m
+photo.4.author: perie1027vivi
+photo.4.link: https://www.instagram.com/perie1027vivi/
+photo.4.tags: portrait
+photo.5: https://www.instagram.com/p/BjJCY78Fvbp/media/?size=m
+photo.5.author: redpanda_nippon_takashi
+photo.5.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.5.tags: keeper, standing
+photo.6: https://www.instagram.com/p/BnI6pjulP4D/media/?size=m
+photo.6.author: panda.daisuki
+photo.6.link: https://www.instagram.com/panda.daisuki/
+photo.6.tags: portrait, tongue
+photo.7: https://www.instagram.com/p/BoOPiYYl1nJ/media/?size=m
+photo.7.author: run.swim.shingo
+photo.7.link: https://www.instagram.com/run.swim.shingo/
+photo.7.tags: portrait, smile, tree
+photo.8: https://www.instagram.com/p/BogUnGVFnmR/media/?size=m
+photo.8.author: ck.chie
+photo.8.link: https://www.instagram.com/ck.chie/
+photo.8.tags: laying down, portrait, tongue, tree
+photo.9: https://www.instagram.com/p/BpDSdablLhR/media/?size=m
+photo.9.author: redpanda_nippon_takashi
+photo.9.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.9.tags: portrait, smile
+photo.10: https://www.instagram.com/p/Bp5emKAlebv/media/?size=m
+photo.10.author: _rifa_p
+photo.10.link: https://www.instagram.com/_rifa_p/
+photo.11: https://www.instagram.com/p/Bp95kI2FvpQ/media/?size=m
+photo.11.author: na.mo.pan
+photo.11.link: https://www.instagram.com/na.mo.pan/
+photo.12: https://www.instagram.com/p/BqClTOJFrGa/media/?size=m
+photo.12.author: perie1027vivi
+photo.12.link: https://www.instagram.com/perie1027vivi/
+photo.12.tags: tree
+photo.13: https://www.instagram.com/p/BqDx537lbvH/media/?size=m
+photo.13.author: 218_yu
+photo.13.link: https://www.instagram.com/218_yu/
+photo.13.tags: tree
+photo.14: https://www.instagram.com/p/BqKSeuoltY7/media/?size=m
+photo.14.author: 218_yu
+photo.14.link: https://www.instagram.com/218_yu/
+photo.14.tags: portrait, tongue
+photo.15: https://www.instagram.com/p/BqJ_Yn5lQwI/media/?size=m
+photo.15.author: tomo3700
+photo.15.link: https://www.instagram.com/tomo3700/
+photo.15.tags: portrait
+photo.16: https://www.instagram.com/p/BrELTEAF5Kg/media/?size=m
+photo.16.author: fetorus_mami
+photo.16.link: https://www.instagram.com/fetorus_mami/
+photo.16.tags: bamboo
+photo.17: https://www.instagram.com/p/BrR4hjaFoEA/media/?size=m
+photo.17.author: na.mo.pan
+photo.17.link: https://www.instagram.com/na.mo.pan/
+photo.17.tags: tree
+photo.18: https://www.instagram.com/p/Blz7qc7lcdU/media/?size=m
+photo.18.author: hanamaru_redpanda
+photo.18.link: https://www.instagram.com/hanamaru_redpanda/
+photo.18.tags: laying down, portrait, tree
+photo.19: https://www.instagram.com/p/Br_OollFO9j/media/?size=m
+photo.19.author: redpanda_nippon_takashi
+photo.19.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.19.tags: air tasting, portrait, tongue
+photo.20: https://www.instagram.com/p/BsS6CAeFqoB/media/?size=m
+photo.20.author: rie_panda55
+photo.20.link: https://www.instagram.com/rie_panda55/
+photo.20.tags: bridge, tree
+photo.21: https://www.instagram.com/p/BsXmApdlrzw/media/?size=m
+photo.21.author: na.mo.pan
+photo.21.link: https://www.instagram.com/na.mo.pan/
+photo.22: https://www.instagram.com/p/BsVMEXWFPfA/media/?size=m
+photo.22.author: craig_craig_craig
+photo.22.link: https://www.instagram.com/craig_craig_craig/
+photo.22.tags: portrait
+photo.23: https://www.instagram.com/p/Bs1flu8lpBw/media/?size=m
+photo.23.author: panda.daisuki
+photo.23.link: https://www.instagram.com/panda.daisuki/
+photo.23.tags: bamboo, portrait, tongue
+photo.24: https://www.instagram.com/p/BuKw6Daln5H/media/?size=m
+photo.24.author: ck.chie
+photo.24.link: https://www.instagram.com/ck.chie/
+photo.24.tags: apple time, lips, smile
+photo.25: https://www.instagram.com/p/BwmflGqlD_B/media/?size=m
+photo.25.author: na.mo.pan
+photo.25.link: https://www.instagram.com/na.mo.pan/
+photo.25.tags: smile, tongue
+photo.26: https://www.instagram.com/p/BxUdGa3Fcgq/media/?size=m
+photo.26.author: craig_craig_craig
+photo.26.link: https://www.instagram.com/p/BxUdGa3Fcgq/media/?size=m
+photo.26.tags: paws, portrait, tongue
+photo.27: https://www.instagram.com/p/BxeY4vXF1Ap/media/?size=m
+photo.27.author: ruru_maki
+photo.27.link: https://www.instagram.com/ruru_maki/
+photo.27.tags: laying down, tail
+photo.28: https://www.instagram.com/p/BxuUeJolbOo/media/?size=m
+photo.28.author: ck.chie
+photo.28.link: https://www.instagram.com/ck.chie/
+photo.28.tags: tongue
+photo.29: https://www.instagram.com/p/Bxvlmg1lcIL/media/?size=m
+photo.29.author: _rifa_p
+photo.29.link: https://www.instagram.com/_rifa_p/
+photo.29.tags: bamboo, snow
+photo.30: https://www.instagram.com/p/BpbkRvOlsm4/media/?size=m
+photo.30.author: chr0_0
+photo.30.link: https://www.instagram.com/chr0_0/
+photo.30.tags: portrait
+photo.31: https://www.instagram.com/p/ByWTeT_nZnp/media/?size=m
+photo.31.author: fetorus_mami
+photo.31.link: https://www.instagram.com/fetorus_mami/
+photo.31.tags: paws, portrait
+photo.32: https://www.instagram.com/p/ByZSzO2BRkr/media/?size=m
+photo.32.author: minatomirai215
+photo.32.link: https://www.instagram.com/minatomirai215/
+photo.32.tags: portrait, smile
+photo.33: https://www.instagram.com/p/Byxl4ZCBjg9/media/?size=m
+photo.33.author: firefoxpanda88
+photo.33.link: https://www.instagram.com/firefoxpanda88/
+photo.33.tags: portrait, smile
+photo.34: https://www.instagram.com/p/ByxPZ8ghhP1/media/?size=m
+photo.34.author: resapan.suki
+photo.34.link: https://www.instagram.com/resapan.suki/
+photo.34.tags: apple time, portrait, smile
+photo.35: https://www.instagram.com/p/Bywa9hJhj_a/media/?size=m
+photo.35.author: na.mo.pan
+photo.35.link: https://www.instagram.com/na.mo.pan/
+photo.35.tags: paws
+photo.36: https://www.instagram.com/p/By5RB1AhYaD/media/?size=m
+photo.36.author: ifumoto88
+photo.36.link: https://www.instagram.com/ifumoto88/
+photo.36.tags: apple time, lips, smile
+species: 2
+zoo: 1
